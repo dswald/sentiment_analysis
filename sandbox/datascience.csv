@@ -1,0 +1,34 @@
+parent_id,comment_id,body,predict_sentiment
+7iln6p,dqzp8cq,"From another fairly antiquated company in retail, it depends on what sort of analyst you are. We have a load of analysts (100+) who run mostly on pre built reports, and some smaller teams who have access to the main databases for fraud detection and customer analytics.
+
+If you're one of the main analytics teams, I'd say that your situation seems pretty sub-optimal. If nothing else, being able to query the server directly makes it much quicker to get the data you need.",Positive
+7iln6p,dqzqq5e,"Yes... Often ist normal. Unless you're in a data driven company that is doing that for years, none will hand over datasets to you like in a kaggle competition. There are usually two big data sinkholes in these companies, excel everywhere and some erp like SAP.  People often don't know anything else. The IT lives in the past and might use SQL databases for various purposes and if you request some data extract and they wanna be helpful, then they run some dump scripts that take ages. DONT ask them for any preprocessing that goes beyond column filtering... Just do everything yourself. In any case better try everything yourself if possible when you need data. Asking people who don't really understand ""machinereadable"" might send you an excel with color codes and whatever. I could go on like that for hours haha...
+
+Edit: the problem with access /permission is quite common too. Over time helps a lot to have a big network of connections that can speed up requests or can even help you outside of the process. ",Positive
+7iln6p,dr0765d,"In every company I've worked at, the IT department or whatever team owns the application, has at the very least provided a read-only SQL database or some sort of data access API for the business teams to use for analysis and reporting. This is a normal expectation. The problem is always how slow IT teams are at adding new datasets. So then a lot of business teams will go hire their own developers to set up their own databases, which is faster, but now you have many different siloed databases spread out across the company, and if you need another team's data, it's hard to track down and get access. Getting the best of both worlds and the right degree of centralization is a hard problem.",Positive
+7iln6p,dr0pmpc,"Not abnormal. Try to get them to dump the database tables you need to csv/tsv/whatever in a periodic cron job. That way, you're never missing anything you need, and they only have 1 script to write at the beginning.",Negative
+dqzp8cq,dqzqcgg,"I figured as much. I'm not on the main team, but I've taken some initiative and managed to get to the point where I'm dealing with the main analysts regularly and generating reports for upper level management.
+
+As I started interfacing with the main team and seeing their workflows with a mixture of access/excel extracts based off of an initial qlikeview snapshot that's sent to them, I figured things were not okay.
+
+Most recently, someone who generates a lot of the initial transformations for others to make their report will have to work this weekend because she had to wait for IT to do things on their end.",Negative
+dqzqq5e,dqzw652,"This is pretty unfortunate, but I guess it's what I expected. For me it almost seems like IT lives with an intentional barrier between them and my organization. 
+
+To a certain extent, I understand it because our management makes so many request seemingly due to their own inability to understand problems. If you don't know what you're doing, try everything and eventually you'll stumble upon a solution right?
+
+At the same time, I can't entirely defend them because they seem somewhat incompetent in sections. It's almost as if they have a head person for every major system, and that person outsources all problems to some external company. I remember having to explain to some guy how to recreate excel's conditional formatting with a much more limited (5 color) gradient in one of our systems.
+
+This request had been going on for ages with many failures until I got there. My background isn't comp sci, so I was left wondering why I needed to explain this to the tech people.
+
+",Negative
+dqzqcgg,dr0dv6f,"If direct querying of the database means that you would be accessing the operational system that produces the data, they would probably want to restrict that, as there may be service level agreements that could be affected if someone does a query that 'turns the lights out' on that system.
+
+Some companies keep a Change Data Capture CDC copy of the operational system that others can query.  If someone queries the copy then it would not affect the operational system.  This is probably the best way to get access to data as it's in the most raw form (if you want to do the transforms yourself) while still keeping the operational system isolated for SLA reasons.  But this takes money for hardware, software, and maintenance.
+
+Mostly IT departments would provide an extract of data at some time interval, each minute, 10 minutes, hour, intra-day, daily, etc.  This is more likely would you could ask for, some daily feed of the data you need.
+
+In any case will be at the mercy of the folks that own the data.  I was at a Telco in Asia once where the Network team did not want to give the analytics teams data from their systems for any reason.
+
+Sometimes the issues are technical (which are usually solvable) sometimes the issues are political, which requires backing from management to get things moving.  And in some cases it might be a data security issue.
+
+In many old-school companies with policies (read walls to progress) in place, it's an uphill battle to get access.  I'm dealing with a similar issue last week and this.  Trying to convince the owners of the data that the users of the data will put the data to good use and not affect their system.  ",Negative

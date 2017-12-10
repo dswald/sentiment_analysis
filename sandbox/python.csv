@@ -1,0 +1,8 @@
+parent_id,comment_id,body,predict_sentiment
+7ipz81,dr0loqs,Cool! Nice job. I recently downloaded all my Google data using [Google takeout](https://takeout.google.com/settings/takeout?pli=1) and it gives you a big archive in mbox format that this kind of thing would be useful for. You can also use mutt if you're old school ,Positive
+7ipz81,dr0p39r,Why did you decide to output CSV instead of Maildir?,Positive
+7ipz81,dr0wj54,That's awesome. I'll probably be using this soon. I need it to look for specific emails and make an entry into an Excel sheet with text gathered in the body. This should give me a good start,Positive
+7ipz81,dr0zr0z,A cool project could be to use machine learning to predict a subject from a body of text using the emails as training data.,Positive
+dr0loqs,dr0qzec,Why doesn’t take out offer gmail for me?,Negative
+dr0wj54,dr0zm59,"Challenge yourself and use some regex for filtering. Maybe some lambdas, too. ",Positive
+dr0zm59,dr1035a,Good idea. I've been needing an excuse to learn regex,Positive

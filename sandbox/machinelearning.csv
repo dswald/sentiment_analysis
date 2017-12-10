@@ -1,0 +1,3 @@
+parent_id,comment_id,body,predict_sentiment
+7iqa0u,dr0lr0l,"The space+time performance of a learned index vs a B-tree is impressive and, to me at least, quite non-intuitive. Will definitely have to read the new paper linked inside this presentation, [*The Case for Learned Index Structures*](https://arxiv.org/pdf/1712.01208.pdf)",Positive
+7iqa0u,dr0yvon,Video available?,Negative
