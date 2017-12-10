@@ -1,0 +1,18 @@
+Run:
+python download_tweets_user_api.py --dist twitter-2016train-A.txt --output 2016train.txt --user
+python download_tweets_user_api.py --dist twitter-2016test-A.txt --output 2016test.txt --user
+
+
+
+
+To Run:
+
+python download_tweets_user_api.py --dist twitter-2016devtest-A.txt --output 2016devtest.txt --user
+python download_tweets_user_api.py --dist twitter-2016dev-A.txt --output 2016dev.txt --user
+python download_tweets_user_api.py --dist twitter-2015train-A.txt --output 2015train.txt --user
+python download_tweets_user_api.py --dist twitter-2015test-A.txt --output 2015test.txt --user
+python download_tweets_user_api.py --dist twitter-2014test-A.txt --output 2014test.txt --user
+python download_tweets_user_api.py --dist twitter-2013train-A.txt --output 2013train.txt --user
+python download_tweets_user_api.py --dist twitter-2013test-A.txt --output 2013test.txt --user
+python download_tweets_user_api.py --dist twitter-2013dev-A.txt --output 2013dev.txt --user
+
