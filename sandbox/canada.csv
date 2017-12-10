@@ -1,865 +1,221 @@
 parent_id,comment_id,body,predict_sentiment
-7imfs5,dqzudrs,"Being from New Brunswick, this makes me feel very small... Not even one of our cities gets represented here. ",Negative
-7imfs5,dqzywqa,TIL more people live in PEI than all of the territories combined,Positive
-7imfs5,dqzt37c,I’m amazed that the Rest of Ontario population is higher than I expected. 4 million in the smaller cities and rural areas really adds up.,Positive
-7imfs5,dqzynl2,"Halifax's population is shorted by about 100k. On a percentage basis, it's a pretty big difference. ",Positive
-7imfs5,dqzun9n,"London's should read 383,437, not the same as Kitchener-Cambridge-Waterloo.
+7iu6ov,dr1eis1,"""DynastyNow.com"" is a spam site.  This article is plagiarized from Sportsnet.ca:
 
-Also, it amazes me that in the entire area of the Territories there are only about 121,000 people.",Negative
-7imfs5,dqzuf3c,"Being from New Brunswick, this makes me feel very small... Not even one of our cities gets represented here. ",Negative
-7imfs5,dqzue8m,Now do one for Federal spending!,Positive
-7imfs5,dr00p5j,Very cool!  I'm planning a trip to Toronto for the first time this summer. I genuinely anticipate some culture shock with there being 5 million more humans surrounding me compared to Edmonton.,Positive
-7imfs5,dqzs7vw,"UPDATED IMAGE: https://i.imgur.com/ZaBQCze.png
+http://www.sportsnet.ca/hockey/nhl/survey-canadians-opposed-using-taxpayer-funds-nhl-franchises/",Positive
+7iu6ov,dr1iprh,"No shit.
 
+Cities should stop being held ransom by owners for new arenas anyways. ",Negative
+7iu6ov,dr1j8bu,"Is this real life? Why on Earth would we give them more money when ticket prices are already insanely high, and players and management are already making millions of dollars a year?",Negative
+7iu6ov,dr1jrly,"Tax dollars should go towards things that citizens actually use and need such as roads and schools. These areas wouldn't be as successful without the government funding. Not every Canadian can first of all afford to go to an NHL hockey game let alone buy a jersey or maybe even has general interest. After the lock out, I lost a lot of faith in professional sports. I don't believe tax payers should be on the hook for corporate greed. ",Negative
+7iu6ov,dr1jvp4,"If a team came to Saskatchewan and taxpayers ended up putting a chunk of money towards it, then we should also own that part of the team. We would also get the percentage of profits of what we put in. Won't happen because we don't ""own"" the team. The rich guy owns the team. It's dumb, we pay to have the team come here, followed by having to go to the game to pay off the taxes we paid to have them come. It's double dipping and absolutely dumb.",Positive
+7iu6ov,dr1f9m6,"https://www.edmonton.ca/attractions_events/rogers_place/the-agreement.aspx
 
-Uses latest available data, mostly from here:
-https://en.wikipedia.org/wiki/List_of_the_100_largest_population_centres_in_Canada
-https://en.wikipedia.org/wiki/Greater_Toronto_Area
-
-Tool used: http://sankeymatic.com/build/
-Version with no numbers: https://i.imgur.com/3v1VuN1.png",Negative
-7imfs5,dr05exg,Tfw Abbotsford actually gets mentioned for its population,Negative
-7imfs5,dr03syw,Doesn't Sudbury have a greater population than guelph?,Negative
-7imfs5,dr00au2,Always find it funny that when I refer to Surrey as Vancouver I get flamed yet in stats like this they include Surrey as part of Vancouver.,Positive
-7imfs5,dqzvk0n,"Note - London, Ontario's population is incorrect in the original image (victim of copy+paste).
-
-Can't seem to edit the original post. My apologies.
-Updated image here: https://i.imgur.com/ZaBQCze.png",Positive
-7imfs5,dqzv0w3,The numbers for London is wrong we are at 380K,Positive
-7imfs5,dqzv7th,"I would sort these from largest to smallest. This would put Ontario and Quebec next to each other for your Ottawa-Gatineau link.
-
-Being from New Brunswick, I'd like to see our three largest cities broken out. I'd like to see Charlottetown broken out in PEI as well.
-
-What software did you use to create this? I'm hoping it wasn't MS Paint.",Positive
-7imfs5,dr019qk,Wow. The GTA alone is bigger than all the other provinces except Quebec. And even there it is around 75% of Quebec's population. ,Negative
-7imfs5,dr01528,"Hey friend! I think your PEI is a little off; the 2016 census has the population as 142,907, rather than 152,021!
-
-Other than that, thanks for the interesting diagram!",Positive
-7imfs5,dqzyx8k,"It's amazing how fast AB has caught up to BC.  30 years ago, BC was ahead by over a million souls.
-
-It's also interesting to see SK reel in MB.",Negative
-7imfs5,dr020dy,"Ottawa and Gatineau have the only intersecting populations. Though Gatineau is part of the Quebec population (grey), it crosses over into Ontario's light blue to be counted with Ottawa as a city. Very nice touch. ",Positive
-7imfs5,dr0gkwy,"Interesting graph, but I’m curious as to how you sourced your data. You arbitrarily threw in Whitby and Oshawa into the GTA’s population yet failed to include the surroundings of both Edmonton and Calgary.
-
-I would suggest you redo this using Statistics Canada’s CMA list, which uses a [consistent criteria to define metropolitan area](
-http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/geo009-eng.cfm):
-
-I used wikipedia’s list for CMAs because it’s better organized but you should be able to double check with Stats Can. CMA populations can be found [here](http://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-CMA-Eng.cfm?TOPIC=1&LANG=Eng&GK=CMA&GC=825) on the stats can website but you have to do quite a bit of digging and scrolling, since CMA populations are only by province, are at the bottom of each CMA’s population page and for whatever reason defaults to Education when you select a CMA.
-
-From Wikipedia:
-
-* Toronto: 5,928,040
-* Montreal: 4,098,927
-* Vancouver: 2,463,431
-* Calgary: 1,392,609
-* Ottawa-Gatineau: 1,323,783
-* Edmonton: 1,321,426
-* Quebec City: 800,296
-* Winnipeg: 778,489
-* Hamilton: 747,545
-* Kitchener-Waterloo-Cambridge: 523,894
-
-Source: https://en.wikipedia.org/w/index.php?title=List_of_census_metropolitan_areas_and_agglomerations_in_Canada&mobileaction=toggle_view_desktop#List",Positive
-7imfs5,dr056et,This infograph is hella sexy.,Positive
-7imfs5,dqzzw06,"Sudbury is around 165,000 for population. Should be on there for Ontario. ",Positive
-7imfs5,dr0e75r,Didn’t appreciate Montreal was so populous. Neat.,Positive
-7imfs5,dr01smk,Glad to see Windsor make the cut :),Positive
-7imfs5,dr06iru,Quebec city represent!,Positive
-7imfs5,dqzuz2q,Not even a million people here in nova scotia. TIL. ,Negative
-7imfs5,dqzw04a,"For anyone interested, I've also created a similar one of my home country (New Zealand): 
-https://i.imgur.com/L5NAmDR.png
+http://www.huffingtonpost.ca/2017/12/04/daryl-katz-canadian-billionaire-buys-l-a-s-most-expensive-home-ever_a_23296739/
 
 ",Positive
-7imfs5,dqztkfx,I never really realized how much bigger ontario's population was.,Negative
-7imfs5,dr01dmc,Cool chart. Your Vancouver number is actually representative of the GVRD (greater Vancouver regional district) I'm surprised surrey isn't represented here independently. ,Negative
-7imfs5,dr01p69,"TIL Abbotsford has roughly the same population as the NWT, Yukon, and Nunavut combined.",Negative
-7imfs5,dr00oad,I love that Rest of Ontario is the second largest,Positive
-7imfs5,dr07xhi,"What's crazy is that Saskatchewan had over 900K people in 1931. There was just basically no growth between then and 2006. Since then, the province has added about 170K to finally break 1 million.",Negative
-7imfs5,dr09ee6,Is Montreal really >50% of Quebec's population? No wonder it feels so crowded ,Negative
-7imfs5,dqzzcvs,"It’s actually Kitchener - Waterloo - Cambridge. 
+7iu6ov,dr1in64,"I'm for Public funds paying for an Arena, as long as the professional sports team pays enough rent over the iron-clad multi-year term to pay it off. I'm thinking 99 year lease. No-one is moving if they still owe 79 years of rent...",Negative
+7iu6ov,dr1k84b,I wonder how many people can't even afford to go to an NHL game.  Is it any wonder they don't want their tax dollars going into it? ,Negative
+7iu6ov,dr1md3z,"I'm absolutely willing to contribute my taxes to pay for a NHL franchise.
 
-Cambridge always last. *always* ",Positive
-7imfs5,dr01vtw,"Is moving to Sherbrooke, Quebec, to go to school a good idea?",Negative
-7imfs5,dr0bd41,TIL Canada's entire population is just a bit more than California's. Whoa. ,Positive
-7imfs5,dqzxf53,"Why aren't New Brunswick, PEI, and the territories lobbed in with the rest of the provinces?
+Provided:
 
-Seems kind of unfair. ",Positive
-7imfs5,dqzva0x,"Londoner here, your population is wrong, by almost 100,000 people. 388,000 in 2014
+1. The team becomes a semi-crown corp with government oversight
+2. The team's books are open to the public.
 
-Edit: you accidentally used the population for K-W for London. ",Positive
-7imfs5,dqzy242,Sherbrooke is on the graph! Yay!,Positive
-7imfs5,dr00jj3,Where was Winnipeg's pop pulled from? Last census had it at 778k at least for the metro pop. ,Negative
-7imfs5,dqzuek4,"I don't think [Ottawa] (https://ottawa.ca/en/city-hall/get-know-your-city/statistics-and-economic-profile/statistics/2016-census) has surpassed a million yet. I see you lumped in Gatineau, which is technically in the province of Quebec, but is part of the National Capital Region. Still not purely Ontario.",Negative
-7imfs5,dr0271r,That's awesome. Could you do an animated one that shows population changes over time?,Positive
-7imfs5,dr03pc2,"I feel like the populations of the cities kinda shows a false sense of how the population is spread. 
+IE.  The team stops being the play toy of a rich billionaire.  
 
-For example the metropolitan population of Edmonton in 2016 was 1.3M. And the metropolitan population of Calgary in 2016 was 1.4M. In 2016 the population of alberta was 4.1M, so that would mean the rest of the population was around 1.4M. 
+Take it or leave it.  There's no middle ground here.",Positive
+7iu6ov,dr1ig5n,I don't understand why all the articles about publically funded arenas use the Sens as a thumbnail. They're one of the few teams to privately finance their current arena.,Negative
+7iu6ov,dr1lucx,I'm all for it as long as tax payer get to own the percentage of the team they funded. Wouldn't be fair otherwise.,Positive
+7iu6ov,dr1lg6t,Pffffffffftt sit the fuck down NHL. ,Negative
+7iu6ov,dr1lzhe,"Not everyone can afford to go to a hockey game regularly. Why should people who are less off be on the hook for something they can't go to? 
 
-So the ratio between Metro Edmonton to Metro Calgary to Rest of Alberta is pretty close to 1:1:1 . However the data you used in your visualization makes it look more 1:1:2. ",Negative
-7imfs5,dr03vxx,"Surprising to see my city here, being the ass end of Ontario. ",Negative
-7imfs5,dr04rlv,I was excited to see Abbotsford made the list,Positive
-7imfs5,dr06dbk,Regional municipality of Niagara is short by 220k,Positive
-7imfs5,dr077ow,I like that Gatineau is the only city that is kinda considered in 2 provinces :P,Positive
-7imfs5,dr07q9z,"Hey, what application did you use for the diagram? ",Positive
-7imfs5,dr0874n,Sort of marginalizes Northern Ontario here. But I'm sure we understand.,Positive
-7imfs5,dr094sm,"It always amazes me that Vancouver’s population is so small. It feels like such a big place. When I travel, just about everyone has heard of it and most have been or want to visit. 
+A ticket for a half decent flames ticket near the front row in the 200 section is well, around $200 dollars. That is absurd. That is two days wages for a minimum wage worker.
 
-For such a high profile city, it would be considered a random small city in China. I was in Beijing recently and had a conversation about exactly this with my English speaking guide. We were trading stats and the woman I was speaking with was absolutely shocked at how small Vancouver is (and I had guesstimated 4 million, so I was way over). Then we determined that Beijing + Shanghai combined have about 5 million more people than all of Canada. Her mind was absolutely blown. 
+Then we haven't even discussed they hyper-inflated booze, pop, food and parking. ",Negative
+7iu6ov,dr1ln3z,"""Duh""",Positive
+7iu6ov,dr1n33p,The only reason ticket prices are so high is that teams know fans are willing and able to pay those prices. So the prices are no one's fault but our own.,Negative
+7iu6ov,dr1jkyq,"Taking advantage of our love for hockey. Doesn't feel good. That said, it's tough because I want to see these areas thrive. I agree with some of you here, 1/3 of the funding sounds reasonable to me.",Positive
+7iu6ov,dr1n5ol,How about we  use that money and put it into programs people actually need. Professional sports players and organizations don’t need more money. They are greedy fucks already ,Negative
+7iu6ov,dr1m0f3,"As a Canadian who doesn't give a fuck about hockey, i feel the nhl should just fuck right off and go back to local leagues. The player are over paid, the areas are super tight and you have to take a small loan for concession. A game is ruined when players play for money not fun and bragging rights. ",Negative
+7iu6ov,dr1lpph,"Meh, I like what Vegas is doing with the Raiders.
 
-We also talked about home sizes - I live in about 465 sf which is of course insanely tiny by Canadian standards and most people find appalling. I told her that and she had the same reaction as most people do (“WHAAAAT?”) However it was a little further into the convo that I realised she was amazed that I lived alone in a place so BIG. She shares a 300 sf flat with her husband and son and said I must be very rich. Talk about gaining perspective. ",Positive
-7imfs5,dr094z3,TIL Winnipeg is more populous than the rest of Manitoba.,Positive
-7imfs5,dr09m5e,"It seems more and more people are continuing to leave the Atlantic provinces, and I don't blame them.
+Tacking on a few percentiles onto their hotel taxes. The municipality IS paying for it, but with tourist dollars.
 
-What can the government do to promote more population growth in the region/incentivize people to stay?",Negative
-7imfs5,dr0e19r,Yay for Saskatoon and Regina making it on the Diagram! ,Positive
-7imfs5,dr0f7cp,"""Rest of Ontario"" represent! 
+Of course that is probably the best possible situation and unique to the Vegas market alone. ",Positive
+7iu6ov,dr1mh14,"government subsidized sportsteams.... the problem once its accepted even 1 time is its impossible to stop. the infrastructure gets put in place with expanded government + jobs.. then it gets perceived as a good thing and nobody would dare oppose it, regardless of how economically viable it is. it would be really, really bad if this ever happens
 
-",Positive
-7imfs5,dr0hn4h,"Wow, thanks so much for doing this! I was born in Montreal and lived my whole life in Canada but never realized the population dispersion looked like this across the country.",Negative
-7imfs5,dr0ile1,New Brunswick isn't broken up by city. Somehow I find this appropriate.,Negative
-7imfs5,dr0o78a,Hi. From the rest of Ontario. ,Positive
-7imfs5,dr0qxgv,My city is on here and I think that's pretty cool. Excellent diagram.,Positive
-7imfs5,dr0t5qw,I like that subtle gray line from Quebec across to Ottawa-Gatineau. Great detail!,Positive
-7imfs5,dr0w070,Happy to share this great country with each and every one of you,Positive
-7imfs5,dr0xth2,"Lol I was looking for Gatineau, wondering how the hell could Sherbrooke be mentioned but not us. We're lumped with Ottawa, which does make sense. They should really make the region a separate entity like the US does with the district of Columbia. Maybe then we'll be able to build at least *one* bridge... ",Positive
-7imfs5,dr0aln3,There is a mistake in your graph...Gatineau belongs to Quebec not to Ontario.,Negative
-7imfs5,dqzxd06,"Your numbers are way off according to StatsCan:
 
-https://www.statcan.gc.ca/pub/12-581-x/2017000/pop-eng.htm
+let the god damn market dictate the success of a sports team. if it can't turn a profit, its not meant to be",Positive
+7iu6ov,dr1nc83,Maybe Edmonton should subsidize my new Mexican themed bar and grill since it will draw people to the area and stimulate the economy!,Positive
+7iu6ov,dr1nerx,"Why do they keep saying that it's the location of Ottawa's arena that keeps them from selling out home games?! Yes, that's a small part. But mainly, the reason is that the ticket price alone is too God damned expensive! Then you add getting there, parking, and ridiculous consession stand prices. It all adds up to an immensely overpriced few hours of maybe fun. ",Negative
+7iu6ov,dr1nfvi,If tax payer money goes to an arena or whatever for a major sports team. I want all the games they play to be streamed free on CBC.,Positive
+7iu6ov,dr1nuud,"""Many blamed the location of Canadian Tire Centre, which is in Kanata, Ont., a considerable drive from the downtown area.""
 
-* Canada: 36.7M (Actual 35.1M)
-* Ontario: 14.1 (Actual 13.4M)
-* Alberta: 4.2M (Actual 4.0M)
-
-Don't use wikipedia as a source.",Negative
-7imfs5,dr00wei,There's some issues. For Example Montreal isnt 4 million large. That's greater Montreal in which case you should do it for both Quebec City and Sherbrooke. Sherbrooke's population is 212k when you use the same metrics as you did for Montreal.,Positive
-7imfs5,dr02ht7,"Pretty cool, couple thoughts I had:
-
-Ontario should be right under Quebec, which makes the ottawa-gatineau line look more clean and moves the smaller lines down with the rest of the smaller provinces
-
-New Brunswick should have moncton broken out., pei should have Charletown broken out, just for fairness ya know? Equal representation /s
-
-The color choices seem odd, bold colors for bc/alberta, soft for the rest. I'd suggest something 'orderly' like assigning colors based on provincial size and color gradient, and then keeping them all similar 'pastel/bold' levels between them. But that's me being SUPER picky .",Positive
-7imfs5,dqzw4vu,[deleted],Positive
-7imfs5,dr020ac,"GTA inc Oshawa, Whitbey - 6,417,516
-
-/r/restofthefuckingowl/
-
-;-) ",Positive
-7imfs5,dr03izr,Hey i can see my house from here!,Positive
-7imfs5,dr03puo,"Didn't include Yukon, Northwest Territories and Nunavut?  Or did you include them but the lines are so small due to low populations that they don't even show up on the diagram?",Negative
-7imfs5,dr041xe,"Edit: Never mind, found my answer in a lower comment. ",Positive
-7imfs5,dr043iz,"As being from Oshawa, I would really like to know what is considered the GTA?",Positive
-7imfs5,dr04bd9,Are the Territories included in that tiny thread in the middle?,Negative
-7imfs5,dr04nnz,I got really offended that New Brunswick wasn’t there and then realized our population is so small you can hardly see it. lol ,Negative
-7imfs5,dr04o0u,Something seems to be messed up with Alberta. Your populations for both Calgary and Edmonton metropolitan areas seem to be significantly lower than the figures from the most recent census. Calgary has overtaken Ottawa-Gatineau in population. ,Negative
-7imfs5,dr04pjn,"Nova Scotia is seriously so small, but not surprising. Lovely place to visit.",Positive
-7imfs5,dr05chp,"Everyone in Kitchener Waterloo find a partner in London and link arms, we’re doing the world’s largest square dance - here we go!",Positive
-7imfs5,dr05omk,"4.2m rest of ontario is extremely surprising.  Where are they (other than kingston)?
-
-More people rural SK than rural MB.  But why is rural AB more than the other 2 combined?",Negative
-7imfs5,dr05xbk,"Having not looked at this for maybe 30 years, what blew me away was the size of Ontario's population. It's always been the largest, but 30 years ago when I was a kid growing up in Quebec, it was only a bit bigger. Now more than double Quebec's size. Would be fascinating to see this as an animated graph showing the change over 20-30 years. Thanks OP",Negative
-7imfs5,dr068nz,Read: 'Skanky Diagram' - came here looking for something else.,Positive
-7imfs5,dr06e3m,"Thanks for this. Nice work.
- I think that the population here  in Sudbury is about 161000, about .04 of the ""Rest of Ontario"".
+So they want to build a whole new arena instead of, I don't know, providing a much cheaper and more economical shuttle or something of the like? That seems a bit idiotic.",Positive
+7iu6ov,dr1nxpf,We should never subsidize billionaires. Ever.,Negative
+7iu6ov,dr1o2f0,As with any business make them pay their own way.,Positive
+dr1eis1,dr1evbq,How is that legal?,Positive
+dr1eis1,dr1lzcr,Using tax dollars to generate revenue isn't helping Americans. God save the Queen Canada. ,Negative
+dr1eis1,dr1lrgg,Better then going to sportsnet ,Positive
+dr1iprh,dr1k8hg,The teams should be publically owned by the municipalities. ,Positive
+dr1j8bu,dr1jdqv,Oh.. didn’t you know it’s because they can just go to Seattle who will pay for everything and just be grateful. /s,Negative
+dr1j8bu,dr1mp5c,"Plus if the Canadian government would start allowing hentai film studios in Japan to outsource cleanup, coloring etc. work to animation studios in Alberta and Atlantic Canada they'd easily get the billion dollars in tax revenue they need. But apparently it doesn't matter if the film is about milf dickgirls with huge tits, all hentai is cp in their eyes.",Negative
+dr1jvp4,dr1k8jb,"At the very least, the city should own 1/3 (or however much they invest) of the arena. So the city makes money off of other concerts and stuff that goes on there, and from the vendors within the arena. ",Positive
+dr1jvp4,dr1ok21,I believe the season ticket holders are the majority shareholder for the Packers. So it can be done.,Positive
+dr1f9m6,dr1fwcg,BMO Field was built mostly with public money as well.,Negative
+dr1f9m6,dr1l6z3,"That deal was the best thing to happen to edmonton in a long time.
 
 ",Positive
-7imfs5,dr06j3w,Why does the New Brunswick line cross over into Ontario? And why does Ottawa show up well below the rest of the province's stats?,Negative
-7imfs5,dr072x8,Where's Surrey?,Negative
-7imfs5,dr07g70,TIL Prince Edward Island has a higher population than all of the territories combined ,Positive
-7imfs5,dr07ymg,What does Hamilton include?,Positive
-7imfs5,dr081jv,"/u/spotila7 Great diagram! One question though, is there a reason you didn't organize this geographically? It really bothers me that Gatineau crosses over 2 provinces and 3 territories to join Ottawa. Like, start with BC and move east...",Negative
-7imfs5,dr086ah,TIL: Canada has less population than the state of California.,Negative
-7imfs5,dr08d9p,"Wow, this is impressive. What program/software did you use to make this?",Positive
-7imfs5,dr09g5i,Where did you get the information? Im from windsor and 287000 seems a little high so I'm wondering what they count as windsor. LaSalle? Tecumseh? How far do they go. ,Negative
-7imfs5,dr09qfy,Wait a minute I don't think London has 470k...,Negative
-7imfs5,dr0a3hw,Sankey very much 😁,Positive
-7imfs5,dr0a81e,"Awesome infographic but it does have a pet peeve of mine, https://en.m.wikipedia.org/wiki/Significant_figures
+dr1in64,dr1j7n8,"I honestly like Nenshi's offer:
 
-*Edit just saw your new Zealand one. That one has some appropriate rounding.",Positive
-7imfs5,dr0abno,r/dataisbeautiful,Negative
-7imfs5,dr0ag89,"Where did you get the numbers for London? I thought our population was ~380,000. ",Positive
-7imfs5,dr0alf8,r/dataisbeautiful ,Negative
-7imfs5,dr0aqgq,No data from the northern provinces and territories?,Negative
-7imfs5,dr0av41,Cool Diagram. Thanks for posting,Positive
-7imfs5,dr0b3ao,"Wait, is Hamilton not considered part of the GTA? ",Negative
-7imfs5,dr0b3cf,"I'm from Whitby. I just want to thank OP for including us in something, what a wonderful day to be alive. Thank you.",Positive
-7imfs5,dr0bixy,"If you're going to do the Greater Toronto Area, you need to be consistent with Vancouver area.  Vancouver proper has less than 1 million...",Positive
-7imfs5,dr0bvp8,HEYO! Abbotsford represent! ,Positive
-7imfs5,dr0bxrn,"Oh look, our population has gone up 28k in what... 400 years. Someone once told nl to never change and it almost worked",Negative
-7imfs5,dr0cmbg,"Vancouver has 600,000 people, the Greater Vancouver Regional District or GVRD has 2.2 million.",Negative
-7imfs5,dr0d1ke,"The Edmonton area has a population of 1.321 million, while Edmonton itself has a population of 1,159,869.
-
-source: http://www.cbc.ca/news/canada/edmonton/new-census-data-edmonton-area-population-surges-past-national-growth-rate-1.3971911",Negative
-7imfs5,dr0d9cb,Jeez when did K town get bigger than Abbotsford?,Positive
-7imfs5,dr0dowi,Do people think that Oshawa and Whitby are sometimes not part of the GTA?,Negative
-7imfs5,dr0e5fw,Ontario is the reason not many people win the lottery on the western side of Canada. ,Negative
-7imfs5,dr0edut,The Sanskey is so hot right now.,Negative
-7imfs5,dr0eexp,Skanky indeed.,Positive
-7imfs5,dr0fsw6,"What the fuck, go east to west or west to east. You're all over the map! ",Positive
-7imfs5,dr0g876,"""Sankey, you dead?""
-
--""No man.""",Positive
-7imfs5,dr0h4rb,"What did you make it with? It looks really nice!
-
-Don't forget to x-post it to /r/dataisbeautiful as you did with your previous posts.",Positive
-7imfs5,dr0hfcz,Good ol' Winnipeg! :),Positive
-7imfs5,dr0immj,TIL Victoria is a bigger city then Halifax always thought it was the other way around.,Positive
-7imfs5,dr0k4vl,"Whoa, there's a lot of people in the GTA. I didn't realize I lived in such a big place.",Negative
-7imfs5,dr0kpso,"Interesting that for most provinces the most populated city accounts for roughly half of the population, but in AB it's more like a quarter of the population. ",Positive
-7imfs5,dr0ksjj,I thought vancouver would be more populated than Montreal..,Negative
-7imfs5,dr0lawh,"Thanks for all the comments guys and girls. I don't have a chance in hell of answering them all, but quite a few queries are about the same things.
-
-Firstly, yes there's a slight error with London, Ontario's population, it should be 383,437, not 470,015. A victim of the copy+paste I was doing. An updated version is here: https://i.imgur.com/ZaBQCze.png
-
-As you can see, it doesn't really change the size of the line ;)
-
-Also, I missed out Greater Sudbury, and now I feel bad. Sorry Sudbury folk.
-
-I used the latest available data, mostly from here, which seems to generally be 2016 Census data, so will have a changed a bit since then: 
-
-https://en.wikipedia.org/wiki/List_of_the_100_largest_population_centres_in_Canada
-
-https://en.wikipedia.org/wiki/Greater_Toronto_Area
-
-Which in turn sourced data from here:
-http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=801&SR=1&S=3&O=D&RPP=25&PR=0&CMA=0#tPopDwell
-
-The figures are for metropolitan areas if every possible case, and with Toronto I made the decison to include Oshawa/Whitby.
-
-Montreal's population includes the surrounding metro area. As does Vancouver's, Calgary's, Edmonton's and so on. 
-
-Tool used: http://sankeymatic.com/build/
-
-The tool can be a bit finicky with the lines, so the diagram is ordered this way (rather than by size or geographically) only because any other way seemed to produce annoying overlaps.
-
-Version with no numbers: https://i.imgur.com/3v1VuN1.png
-
-Cheers",Negative
-7imfs5,dr0lzln,I actually thought OP forgot about little ol PEI for a second.  ;),Positive
-7imfs5,dr0mnor,Could have had Ottawa separated too. Great work.,Positive
-7imfs5,dr0o1bu,"Very interesting... Ontario has about the same number of people as the rest of the country (-minus QC)
-There are more people on the small island (relative to the rest of the country) of PEI than the whole of the far north.",Positive
-7imfs5,dr0oi37,"Can we also do a breakdown of net-benefit to the country? Maybe include the percentage of equalization payments being paid by each province? 
-
-
-I just think it would be interesting is all.",Positive
-7imfs5,dr0q2ki,Did the population of Ontario jump up that much in the last few decades? It felt like Quebec and Ontario were much closer 10 years ago.,Negative
-7imfs5,dr0q7qs,"An updated image to deal with a few of the issues:
-
-Cheers
-
-https://i.imgur.com/ZaBQCze.png",Positive
-dqzudrs,dqzw4ev,"Sorry ;), had to cut it off somewhere, it was getting pretty cluttered. Moncton only missed out by a bit!",Negative
-dqzudrs,dr03u8l,"Yeah, I'm from NL and at least I got St. John's :P (Which is where im currently sitting, so WOO, I MADE THE CUT)",Positive
-dqzudrs,dqzwozr,Do you have a theory why New Brunswick never took off population wise? Moncton or Saint John could be much larger. I’ve driven through the province and it was pretty depressing. Could it be the Irving influence? ,Positive
-dqzudrs,dr0a8zg,NWT here. Yup. ,Positive
-dqzudrs,dr01x6b,"While I didn't expect Edmundston to be listed, it would have been nice to have Moncton and Saint John there. I understand Fredericton is smaller than those, but most provinces at least have their capital city listed.",Positive
-dqzudrs,dr0eyig,"It took me a minute to find it, I thought he forgot us.",Negative
-dqzudrs,dr0kexp,"Hey, at least we're the biggest of the undivided! lol",Positive
-dqzudrs,dr0s29m,"I fixed you up brother: 
-
-https://i.imgur.com/ZaBQCze.png",Negative
-dqzudrs,dr0u5g3,"Be happy that it's not just ""the maritime"". ",Positive
-dqzudrs,dr02khr,"I always get grouped in to ""the rest of Ontario"", as though there's Toronto and then there's the rest.",Positive
-dqzudrs,dr09xjh,"Don't feel bad you have four more senators than BC, Alberta, Manitoba or Saskatchewan. 
-
-I'll come back and edit if I can think of any other way New Brunswick is better than other larger provinces.",Positive
-dqzudrs,dr0b7f4,"The Maritimes are one place. It's a collection of tiny provinces operating like one larger one and should be reflected as such.
-
-Reunite the Maritimes, reunite Acadia!",Positive
-dqzudrs,dr0baqf,"I'm from New Brunswick (born in Saint John) but grew up in PEI. I took me TOO LONG to find PEI on here. 
-
-Anyway, live in Tarana now. S'where all the work is! ",Positive
-dqzudrs,dr0hbzs,"Lmao same, I'm a Freddy boy.",Positive
-dqzudrs,dr0kue2,"New Brunswick? More like No Funswick!
-  
-[edit] someone from Nova Scotia taught me that. I’ve never been to New Brunswick, I’m sure it’s beautiful",Negative
-dqzudrs,dr0q86e,Try being from fucking pei. ,Negative
-dqzywqa,dr02mkl,And the relatively quiet city of Kelowna has the same population as the entire province of PEI. Shit's weird.,Positive
-dqzywqa,dr09lct,More people live in a Toronto neighborhood than the Arctic.,Positive
-dqzywqa,dr0byl1,As someone from the territories the lack of people and amount of space we have is amazing. The territories in general are incredibly underrated and I recommend visiting if you ever get a chance,Positive
-dqzt37c,dqztl9p,We have a pretty good density of small towns but even then it is quite surprising. ,Positive
-dqzt37c,dqzzppk,"Less than 800,000 folks in Northern Ontario though. Population density nose dives north of Barrie. ",Negative
-dqzt37c,dqzuh0l,"Yeah, that's the most surprising takeaway from  a first glance. 
-
-Although, I expected more in Niagara Region - for me,  it's the best part of Ontario. Driving from Toronto down to Niagara and then turn around to Turkey Point at Erie Lake during summer is as if you are somewhere in Europe.",Positive
-dqzt37c,dr01uul,The towns are less dense north of Orillia but it seems like anywhere you go in southern Ontario there’s people. Just look at the satellite map of Bruce county and you’ll realize the entire thing is settled with farms and towns while north of Orillia its all trees. ,Negative
-dqzt37c,dqzwsaj,I live in the rest of Ontario.,Positive
-dqzt37c,dr08v6h,"There are still a number of decently large cities in that rest of Ontario block, too. Sudbury is 160,000, Kingston is 120,000, Thunder Bay is 110,000, and Peterborough, Sault Ste. Marie, and Sarnia are all over 70,000.",Negative
-dqzt37c,dr0bif0,"The part of Ontario that isn't GTA, Hamilton, Ottawa, KW, Barrie, Windsor, London, St Katherines, and Guelph is still about as populous as all of AB or BC, and more populous than 7 provinces combined.",Negative
-dqzt37c,dqzw1ok,[deleted],Positive
-dqzynl2,dr02i4x,"OP used the ""urban area"" population for Halifax instead of the Halifax Regional Municipality population.  But at the same time they used the Greater Toronto Area which includes 4 surrounding regional municipalities.",Negative
-dqzynl2,dr00g2t,Came here to say this - I've always understood it to be greater than 400k (at least as of a few years ago).,Positive
-dqzynl2,dr02hxi,It's so weird to see people outside of /r/halifax :O,Negative
-dqzun9n,dqzvj3b,My mistake - updated: https://i.imgur.com/ZaBQCze.png,Positive
-dqzun9n,dr00ang,">Also, it amazes me that in the entire area of the Territories there are only about 121,000 people.
-
-There are and there aren't that's a measurement of full time residents. That triples from summer residents. It's just they are only there for the 4 summer months then gone again.
-
-Yukon is particularly surprising. It's the only one of the three witha decent sized town, Whitehorse... of that 38,000 in the Yukon 30,000 live in Whitehorse. Yukon if i remember correctly has nearly 100k living there over the summer and almost 500k summer visitors on top of that.",Negative
-dqzun9n,dr04zxo,It always blows my mind that almost 40% of Canada's land mass goes by one area code (867).,Positive
-dqzun9n,dr043zv,That's what makes it such a great place to live.,Positive
-dqzun9n,dr0b6wo,i once had an argument with an aboriginal friend of mine who thought that there were a bunch of native bands up north equalling the population of the rest of Canada. i was like... are you retarded? hes politically active for native benefits and affirmative action etc.,Positive
-dqzun9n,dr0hj7l,[deleted],Positive
-dqzun9n,dr0ohdf,"Yeah that really is interesting. PEI is tiny, yet has more people than territories.",Negative
-dqzuf3c,dr06ej9,"Same, was expecting to see my current city (freddy) on there, much dissapointment.",Positive
-dqzue8m,dr03ha5,And then a per-capita federal spending. I have a feeling the GTA will go from one of the widest bands to one of the smallest.,Positive
-dqzue8m,dqzzccb,This is an outstanding idea (unless you live in Quebec :) ),Positive
-dqzue8m,dr02mio,And votes in parliament.,Positive
-dqzue8m,dr02n6s,Yes please!,Positive
-dr00p5j,dr02lzm,"Tbh, you won't really notice it. Toronto is a sprawling city with many different hoods and boroughs to enjoy so nothing feels crowded IMO. For example, I went to an Eskimos game and an Oilers game when I was visiting family (two separate occasions obviously) and it's just as busy before/after those games trying to get on the LRT as a Jays game at the Rogers Centre which holds 40k regularly. The thing is, when you get out, everything is walking distance. Bars, restaurants, clubs, your hotel or Airbnb. I love going to Toronto, enjoy the trip!",Positive
-dr00p5j,dr0pnec,Keep in mind that number includes the surrounding suburbs and smaller cities. Mississauga alone is 750000.,Positive
-dqzs7vw,dqztzev,"4 million is ""Greater Montreal"", which is much more than Montreal.",Positive
-dqzs7vw,dqzx8f4,"Why? StatsCan has downloadable datasets
-
-https://www.statcan.gc.ca/pub/12-581-x/2017000/pop-eng.htm
-
-Your numbers are way off, your total population is wrong. Update your data and repost.",Negative
-dqzs7vw,dqzy0jk,"That wiki data is old. K-W-C area is well over 500k.
-K-W population growing faster than national average: 2016 census
-http://www.cbc.ca/news/canada/kitchener-waterloo/2016-canada-census-kitchener-waterloo-cambridge-1.3972154
-Shared via the CBC News Android App",Negative
-dqzs7vw,dr04zq5,"You seem to be using the ""greater"" areas as a cities population, which isn't technically correct. That's the difference between a population centre and a city.
-
-Vancouver, for example, only has a population of 647,540. Once you include the other cities (the greater vancouver area) it becomes 2,463,431. ",Positive
-dqzs7vw,dr01uah,"Using that chart skews it a bit as it provides the total population of the entire area of the urban centres but then only counts the urban cores of the other places.
-
-For example, Abbotsford's population is 141,397; but the Wikipedia chart is only using the urban core population.  The combined value for Vancouver, though, includes the more rural portions between the various urban cores that make up Greater Vancouver.
-
-Not your fault, but rather that chart is crap as it's not comparing apples to apples.",Negative
-dqzs7vw,dr04c6e,"Never heard of that tool before, ill have to check it out. I was thinking that you may have used Tableau. Nice graphic!",Positive
-dqzs7vw,dr0ap4b,Thank you for sharing this lovely tool! ,Positive
-dqzs7vw,dr0be3a,Is the version with no numbers the updated version?,Negative
-dr03syw,dr09p7p,Sudburian here. Had a sensible chuckle when I saw we weren't in the list.,Negative
-dr03syw,dr04oie,"He used the full population (not just metro) for Barrie too. Greater Sudbury has more than both.
-
-Nor Ontario ignored again!",Negative
-dr03syw,dr0p7et,"Yea I missed out Greater Sudbury, I'm ashamed. Sorry about that. It is represent in 'the rest of Ontario', when it shouldn't be.",Negative
-dr00au2,dr0civm,"I'm from the interior and Vancouver starts somewhere around Fort Langley to me. At least, that's when the traffic starts to suck.",Negative
-dr00au2,dr08yr7,Came here to say this.,Positive
-dr00au2,dr0h3qn,Which cities count as part of the 2 million people? ,Positive
-dr00au2,dr0jv4q,Surrey is part of the Greater Vancouver Regional District (rebranded as Metro Vancouver now),Negative
-dr00au2,dr0pouc,Especially when cities like Toronto and Hamilton got amalgamated with their suburbs.  ,Negative
-dqzv0w3,dqzvims,My mistake - updated: https://i.imgur.com/ZaBQCze.png,Positive
-dqzv7th,dqzvp37,"Used this: http://sankeymatic.com/build/
-
-It can be a bit finicky with the lines, so it's ordered this way to make it look as clean as I could get it. Cheers",Positive
-dr019qk,dr028zh,"An even bigger mindfuck is that, within the next 20 years or so, if the GTA were a province it would be the biggest in Canada. The GTA will very soon be more than 50% of Ontario's population, and will be larger than all of the population of Quebec. ",Positive
-dqzyx8k,dr03d21,"The oil boom will do that. I think BC is still about 600k bigger. I wouldn’t be surprised if BC’s lead increased a bit with the current economic picture, and the Alberta surges again if there is another oil boom",Positive
-dqzyx8k,dr0onhs,That's the influx of people FROm bc as well as the atlantic provinces. ,Positive
-dr020dy,dr0pa9h,Thanks~,Positive
-dr056et,dr0p5g6,Thanks!,Positive
-dr01smk,dr0b3da,"Too bad the population if off by a few 10,000's",Negative
-dqzw04a,dr02ok2,"Canada isn't even your home country? Nice job, do you live here now or something? Just enjoy diagrams?",Positive
-dqzw04a,dr0sz5n,I love NZ like Canada's tropical twin brother. ,Positive
-dqztkfx,dqzxsug,Ontario's a beast!,Positive
-dqztkfx,dqzusst,Toronto really carries us. ,Positive
-dr01p69,dr0kb7h,"Wow, I find that mind-boggling...",Positive
-dr00oad,dr08csu,"Rest of Ontario represent!!
-
-*""They shot a movie once, in my hometown...""*",Positive
-dr09ee6,dr0dem2,"The greater Montréal,  not just the Island, including suburbs from st- Jerome to Beloeil,  Vaudreuil to Repentigny and the island of Laval the 2nd most populus city of the province.",Positive
-dqzzcvs,dr091tu,"Nope, the official name of the CMA is [Kitchener - Cambridge - Waterloo](http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMACA&Code1=541&Geo2=PR&Code2=35&Data=Count&SearchText=kitchener&SearchType=Begins&SearchPR=01&B1=All&TABID=1).",Positive
-dr01vtw,dr0798v,"Ignore that snowflake. Sherbrooke is a great place to study. There are 2 universities and 1 cegep for a relatively small city, so a considerable part of its population consists of students. Great schools, great people, lots of parties... definitely a good choice.",Positive
-dr01vtw,dr0ib0i,Come to Montreal!,Positive
-dr01vtw,dr0qmb7,/u/WhiteTrashTiger you shoud read this [press release] (http://news.morningstar.com/all/canada-news-wire/20171013C2611/macleans-2018-university-rankings-sherbrooke-ranked-1-in-canada-for-student-satisfaction.aspx) about student satisfaction in Sherbrooke ! ,Positive
-dr0bd41,dr0ji9o,The [Greater Tokyo Area](https://en.wikipedia.org/wiki/Greater_Tokyo_Area) has a larger population than Canada as whole!,Positive
-dr0bd41,dr0cbj7,Toronto has a bigger population than all but two provinces. That's what really messes with my head.,Negative
-dqzxf53,dqzxqhz,"The software is finicky with the lines. I sorta had to order it that way to make it look good, that's all.",Positive
-dqzva0x,dqzvifu,My mistake - updated: https://i.imgur.com/ZaBQCze.png,Positive
-dqzy242,dr0qxzb,But the population should be [166 693](https://www.ville.sherbrooke.qc.ca/citoyen/statistiques-sur-la-ville/),Positive
-dqzy242,dqzyofi,Mah hometown! But I only go like once every few years :(,Positive
-dqzuek4,dqzylti,Not just technically but actually part of Quebec.,Negative
-dqzuek4,dqzutu2,If you look closely you can see a bit of Quebec's grey meet Ottawa,Positive
-dqzuek4,dqzvpus,"Take a look at the lines coming off it, some of it goes to Quebec
-
-Cheers",Positive
-dr0271r,dr0p9rx,I absolutely could not. I wouldn't have a clue how :),Positive
-dr07q9z,dr0owpj,http://sankeymatic.com/build/,Positive
-dr0874n,dr0ovpn,"I missed Greater Sudbury, and now I'm ashamed.",Negative
-dr0f7cp,dr0qfx4,"Updated for you, does this help?
-https://i.imgur.com/ZaBQCze.png",Positive
-dr0ile1,dr0qeee,It is now :) Updated image: https://i.imgur.com/ZaBQCze.png,Positive
-dr0o78a,dr0qdfd,My updated image includes a few more Ontario cities: https://i.imgur.com/ZaBQCze.png,Positive
-dr0aln3,dr0okjo,"Yes, but their usually counted tlas one city due to proximity",Negative
-dr0aln3,dr0oq7g,"Please look closely, part of the Ottawa-Gatineau line leads off to Quebec.",Positive
-dqzxd06,dr09lm7,"This is wrong. Both sets of numbers are in fact ""correct"". See https://www.statcan.gc.ca/eng/hp/estima",Negative
-dqzw4vu,dqzw7t6,"Firstly, I'm not from Toronto (or Canada for that matter), so there is no bias here.
-
-Secondly, what you on about? What 900,000+ city have I only included in 'rest of Ontario'? If you're referring to Ottawa, please look closer.",Positive
-dr03puo,dr0p7zx,"They are all there, please looks closely.",Positive
-dr043iz,dr099a6,"The GTA is generally considered to be Toronto plus Halton, Peel, York, and Durham. The GTHA adds Hamilton to that mix, and then the Greater Golden Horseshoe expands the region out again to include places like Niagara, Waterloo, Wellington, Barrie, Simcoe, Kawartha Lakes, and Peterborough.",Positive
-dr05chp,dr0p56i,"Yea the population of London is an error, it should be 383,437, not 470,015. A victim of the copy+paste I was doing. An updated version is here: https://i.imgur.com/ZaBQCze.png
-
-Whoops!",Positive
-dr05omk,dr07b25,"Thats not all rural AB. Its the ""rest"" of AB. Theres other smaller cities like Lehtbridge, Red Deer, Fort McMurray plus Jasper and Banff.",Positive
-dr05omk,dr0ckqb,"First question: In Kingston, and Prince Edward County, and places like Stratford and Tillsonburg and Chatham-Kent, Saugeen Shores (Port Elgin, Southampton), Grand Bend, Owen Sound, Sarnia, Gravenhurst, Peterborough, Collingwood. Etc. Lots of 10k here, 20 there, 50 there that all adds up. ",Positive
-dr06e3m,dr0p1q0,"Yea, I missed Greater Sudbury, I feel bad about this :(",Negative
-dr06j3w,dr0p07d,"The New Brunswick line is just doing that as a product of the software. It doesn't refer to anything specifically to to with Ontario.
-
-Ottawa-Gatineau is divided between Ontario and Quebec, which is why it looks that way, and sits there.
-",Negative
-dr072x8,dr0oxlf,Included in Vancouver (Greater Vancouver really),Negative
-dr081jv,dr0kx93,"Thanks mate. Originally I had them ordered geographically, but the software is a bit finicky with the lines, so this it's ordered this way to make it look as nice as I could.
-
-Cheers",Positive
-dr08d9p,dr09lsq,Sankey. It’s the new rage. ,Positive
-dr09g5i,dr0ou3e,The data comes from here: https://en.wikipedia.org/wiki/List_of_the_100_largest_population_centres_in_Canada - and by proxy statcan. ,Positive
-dr09qfy,dr0kusa,"Yea it was an error - a victim of copy+paste. Updated: https://i.imgur.com/ZaBQCze.png
-
+* 1/3 from taxpayers 
+* 1/3 from ticket sales/events/etc
+* 1/3 from the sports franchise
 ",Positive
-dr0ag89,dr0kuf8,Yea it was an error - a victim of copy+paste. Updated: https://i.imgur.com/ZaBQCze.png,Positive
-dr0aqgq,dr0opn0,"Yes, they are there, please look closer.",Positive
-dr0b3ao,dr0ooyp,"Technically no. There's the GTA, then there's the GTHA, which includes Hamilton. Then there's the Golden Horseshoe, which is...bigger.",Negative
-dr0dowi,dr0ek19,"They are not part of the CMA, according to Statistics Canada. Which makes this graph suspect because it makes the populations seem suspect.
-
-What’s really damning about this is that Albertan cities seem to be using city proper, making them seem smaller, Ottawa, Montreal and Vancouver are using CMAs, which is what should be used, and apparently the GTA gets its own designation where OP just threw in Oshawa and Whitby arbitrarily.
-
-EDIT: it appears that vancouver’s population is too low",Negative
-dr0lzln,dr0qdti,I would never!,Negative
-dr0mnor,dr0my55,"Thanks, how do you mean? Ottawa is there.",Positive
-dqzw4ev,dqzxdic,That's fine. I understand. NB does not have very large cities.. this graph just makes that very clear.,Positive
-dqzw4ev,dr05i8r,"What data did you use for this? The numbers for HRM and the GTA look like 2006 census data but that would put metro Saint John ahead of metro Moncton so now I'm not sure what you're using.
-
-I just double checked to be sure. HRM cracked 400K in the 2016 census.",Positive
-dqzw4ev,dr0c8lg,"Any reason you didn't put the Maritimes and prairies parallel instead of randomly dispersed? I think the population disparity between Alberta, Manitoba and Sask is pretty interesting. ",Positive
-dqzw4ev,dr0jbyx,Hello from Moncton!,Positive
-dqzw4ev,dr0nqvf,"Related: I feel that Edmonton should be subdivided into two segments, for the people who are or are not in that goddamn mall.",Positive
-dqzw4ev,dr0rx19,Take my upvote for mentioning my city ,Positive
-dqzw4ev,dr0e12f,"Any way to change the threshold where a city gets displayed, say as an overall faction of a Provinces total population?",Positive
-dr03u8l,dr0d5as,"OP missed a good opportunity to label those two categories as ""Town"" and ""The Bay""",Positive
-dr03u8l,dr0o5oc,ME TOO,Negative
-dqzwozr,dqzxa6g,"Not just that but all the Maritimes. We should be the NY or the New England of Canada. We had ship building, coal, timber, fish, ore for aabout two centuries. The major shift politically to the west in central Canada I think took the industrial base with it.",Positive
-dqzwozr,dr03mk4,"When the Maritime provinces entered into to confederation, they had to abandoned their traditional trading routes and trade with upper Canada. Confederation was probably not the best choice for the Maritimes. It has been a slow demise......",Negative
-dqzwozr,dqzz7sp,"When I was Halifax I could almost feel like colonial days were the high life and they never had major economic movement after.
-
-Don't get me wrong, downtown Halifax is modern. But the whole area has the ""use it till it breaks and only repair what is needed"" feel. Personally I think it has a ton of personality, but it only appeals to a certain type of person. ",Negative
-dqzwozr,dr0akbc,"> I’ve driven through the province and it was pretty depressing.
-
-I thought it was gorgeous when I drove through. So much better than the cornfields and manure around my hometown. I could definitely see small town life being depressing there, but so is small town life here in Ontario. ",Negative
-dqzwozr,dr0e2d4,"Too French for English Canada, too English for the francophones.  ",Negative
-dqzwozr,dr0cc5b,">	I’ve driven through the province and it was pretty depressing.
-
-I think you answered your own question. ",Positive
-dr0a8zg,dr0b5td,lmao whats that like,Negative
-dr01x6b,dr0s4vh,Moncton added~ https://i.imgur.com/ZaBQCze.png,Positive
-dr0eyig,dr0s2sw,"I would never, updated with Moncton! https://i.imgur.com/ZaBQCze.png",Negative
-dr0kexp,dr0kksk,Haha small consolation!,Positive
-dr0s29m,dr0sch5,Haha more than I could hope for 😀,Positive
-dr02khr,dr02zrx,Ottawa was tucked in way up at the top AND lumped in with Gatineau  which is in a completely different province.,Positive
-dr02mkl,dr065lr,"I'm born and raised here, I found that surprising as well!",Positive
-dr02mkl,dr0gszw,"I'm from Qc and had never heard of Kelowna... I feel a bit ashamed, and will now spend an hour with a map and Wikipedia. ",Negative
-dr02mkl,dr09cqx,In what kind of sense is Kelowna quiet?  Have you been there in the last 10 years?,Positive
-dqztl9p,dqzxmt1,"The first time I drove through Ontario and Quebec I was surprised how you never really seem to be ""out"" of a town or hamlet. Having grown up in the prairies it was like I was on an Alien world.",Negative
-dqztl9p,dqzv09o,"Point of settlement is also a huge factor here. 
-
-Look along the US east coast and you’ll see a similar pattern. Then you hit the Appalachians and you see a huge drop off, and then again when you hit the continental divide in the Rockies.
-
-California is some what if an exception, but even then that state is a lot more dispersed.",Positive
-dqztl9p,dr04xcd,"It's not even just small towns. Kingston, Sarnia, Thunder Bay, etc..
-
-Ontario has a ton of smaller cities. ",Negative
-dqzzppk,dr02o68,"I live in a rural region in Quebec near the Ontario border. Tfw going to New Liskeard is a ""trip"" ...",Positive
-dqzzppk,dr0nkyu,"I live in Sudbury, our population is higher than Barrie. We have approx 158k people. ",Positive
-dqzuh0l,dqzy7jq,Upvote for Turkey Point. My neck of the woods! ,Negative
-dqzuh0l,dqzwhlw,"What do you mean somewhere in Europe? Population density?
-
-I’ve been to Turkey Point a few times. Traveling along the coast of Lake Erie is such a hidden gem. So many smalls towns established in the late 1790’s that never took off in population. ",Negative
-dqzuh0l,dr019yz,"The reason for that could be the loss of industry in st catharines; gm is all but gone, I'm not sure what stelco's eerie works is up to, just read that the Nanticoke power plant is being phased out and while there is the Nanticoke refinery (imperial oil, produces a large percentage of the fuel we use in southern Ontario, I believe 20% but don't quote me) one refinery isn't going to bring lots of people here. That being said, I work in Hamilton and anecdotally a lot of the people I work with who are just getting into housing, (late 20s mid 30s) are buying in Niagara as it's still reasonably priced and the highway drive isn't bad. ",Negative
-dqzuh0l,dr08qbl,"This graph is wrong. Niagara population is 450,000. ",Negative
-dqzuh0l,dr0e4z0,"> Although, I expected more in Niagara Region
-
-There is more - the 12 municipalities that make up the Niagara Region have a population of 447,888 according to the 2016 census.  I'm not sure where OP got their number from, that's only St. Catharines, Niagara Falls, and a little bit extra.",Negative
-dqzuh0l,dr0fyv1,"Niagara region has a [population of 447,888](https://en.wikipedia.org/wiki/Regional_Municipality_of_Niagara).
-
-It seems like this diagram is just including the population of St. Catharines (133,113) and Niagara Falls (88,071), but not Welland, Port Colborne, Fort Erie, Niagara-on-the-Lake etc.",Positive
-dqzw1ok,dqzw9p4,You need to look at the diagram a little closer buddy.,Positive
-dr02i4x,dr03okp,Haligonians unite! We cannot let this injustice stand. Man your donair canons!,Negative
-dr02i4x,dr0gmpr,Also bundled up a *lot* of people in Montreal. The city itself was 1.7m people last year.,Negative
-dr02i4x,dr0e4b8,"Did the same thing with Vancouver. Combined the totals of places such as North Vancouver, Delta, Surrey, etc which are all their own places with their own mayors under the Vancouver tag. Vancouver itself only has 631,000 people. ",Negative
-dr02i4x,dr0iv3x,If GTA wasn't collapsed the cities encompassed in there would take up half the chart.,Negative
-dr02i4x,dr0j0ej,"And labelled the GVA as ""Vancouver"". No way there's that many people in Vancouver proper.",Positive
-dr00g2t,dr02ib4,430k or so. CAN INTO RELEVANT!,Positive
-dr02hxi,dr0bf6b,There's dozens of us! ,Positive
-dqzvj3b,dqzwjut,"With the LRT in KWC, I see their population hitting a million within 10 years. ",Positive
-dr00ang,dr04w0t,"Im not sure what your definition is for a 'decent sized town' but Yellowknife has around 20,000 people or so. ",Negative
-dr00ang,dr01f80,"The population of Yukon increases slightly in summer, but nothing like 100k, let along 500k. Maybe just a few thousand more, and that’s including tourists passing through. There’s just no way to house that many more people for what is really only a 2-month summer (autumn begins mid-August).
-
-Recently StatsCan reported Nunavut had a higher population than Yukon, but the Government of Yukon is disputing this (as funding levels might be affected).",Negative
-dr00ang,dr0gf5l,Source?,Positive
-dr0b6wo,dr0ednf,Did he think they were like the uncontacted tribes of the Amazon or something?,Positive
-dr0hj7l,dr0hvst,"As much as I want to agree with you, legally the Census Metropolitan Area (CMA), which was the geographical unit used here, it is called Kitchener-Cambridge-Waterloo",Positive
-dr06ej9,dr09eeo,Former Frederictonian here waving to ya 👋 ,Positive
-dr03ha5,dr05f3q,Every metric like this should be displayed per capita. Per capita statistics are useful statistics. Anyone refusing to show per capita statistics is probably trying to mislead you. ,Positive
-dqzzccb,dr012oe,"why?
-",Negative
-dr02lzm,dr0bjzg,Just say neighbourhood. ,Positive
-dqztzev,dqzvuc0,"It shows it as just the 'metropolitan area' here, so I think it's more or less OK. We know what it means :): 
-https://en.wikipedia.org/wiki/Montreal",Positive
-dqzx8f4,dr09dih,"Keep in mind the difference between census counts and census projections. The raw census numbers are the responses collected from the census. The real population projections are the estimated number of actual Canadians including people that are away on vacation, people that weren't polled for whatever reason, etc.",Positive
-dr04zq5,dr0g9n1,"I think OP could have been more explicit about that, but ultimately I think the way they did it was the most informative.  It tells you how many people live in an area, the municipality boundaries are just political lines in the sand. Technically, Calgary has double the population of Vancouver, but that doesn't tell the whole story. There's so many commuters outside of Vancouver boundaries that it feels much larger",Negative
-dr04zq5,dr0sjnp,"Yea, I am aware. Updated diagram:
-
-https://i.imgur.com/ZaBQCze.png",Positive
-dr04oie,dr0h4cr,Time to sucede from Ontario!,Positive
-dr04oie,dr04y57,"That's what I was getting at, no love for anywhere north of GTA as usual",Negative
-dr0civm,dr0lejy,"Vancouver Island seems to see it the same way. To most here, Vancouver spans from Horse Shoe Bay, down to Tsawwassen and as far East as Mission. ",Negative
-dr0h3qn,dr0jwdg,"There are 21 different municipalities within ""Metro Vancouver"", which has about 2.5 million people.
-
-You can see a list of them here: http://www.metrovancouver.org/about/municipalities/Pages/default.aspx
-
-And there's a map here: https://www.tourismvancouver.com/vancouver/municipalities/ ",Positive
-dqzvims,dqzvm2q,Cool just thought let you know 😎,Positive
-dqzvp37,dqzwv8f,"This looks great OP, but I admit I was confused by the order.  I would expect west to east, or largest to smallest, or even alphabetical, I wasn;t sure if the order was significant",Positive
-dr028zh,dr02pcv,"https://www.fin.gov.on.ca/en/economy/demographics/projections/
-
-> The Greater Toronto Area (GTA) is projected to be the fastest growing region of the province, with its population increasing by almost 2.9 million, or 42.3 per cent, to reach
-9.6 million by 2041. The GTA’s share of provincial population is projected to rise from 48.3 per cent in 2016 to 52.7 per cent in 2041.",Positive
-dr03d21,dr085hk,"According to recent BC stats, there’s been a net increase in Alberta-> BC migration. It’s been happening over the past two years, so it’s linked to oil most likely.",Negative
-dr03d21,dr069ko,There isn't necessarily an oil boom but we do have a gas mini boom going on right now in northern AB. They just haven't noticed in Calg and Edm 'cause it hasn't really affected them yet.,Negative
-dr0sz5n,dr0toq7,I've always considered us twins too..,Positive
-dqzusst,dr02kmy,Yeah. Toronto is Canada's New York.,Positive
-dr08csu,dr0ce2n,"Same.
-
-What movie? Mine was *Red Green: Duct Tape Forever*",Positive
-dr0dem2,dr0ifh8,"Right, but I'm still shocked it's such an urban province. ",Negative
-dr091tu,dr09jnv,"Ah, you’re right. 
-
-However, as that may be the *official* name, it sounds wrong. 
-
-Cambridge is a little drive away from Kitchener/Waterloo.
-KW is a melded city that pretty much has Cambridge as an awkward step brother who doesn’t like to clean the streets. 
-Cambridge is last. ",Positive
-dqzutu2,dr02e7p,It's a nice touch.,Positive
-dqzvpus,dqzz4j9,Well done on that. Noticed it and impressed by hot it's done!  Nice!,Positive
-dr0ovpn,dr0qbxq,Don't be! Still amazing work regardless. :),Negative
-dr0qfx4,dr0r26m,I'm actually in Timmins but would not expect to see that as a separate entry.   I would maybe have done Northern Ontario (including Sudbury) as one entry and Northwest(Tbay etc) Ontario.    Though I guess it's kinda tricky to juggle as no matter what someone will feel left out haha. ,Positive
-dr0okjo,dr0psg0,Funny as I never heard that before and I live in Quebec. Must be an Ontario thing.,Positive
-dr0my55,dr0n4yf,I missed it. I started reading Ontario and Greater Toronto. Nice work .,Positive
-dqzxdic,dqzzoqo,Most Canadian exchange ever. ,Positive
-dqzxdic,dr0sea3,"I've added one for you:
-
-https://i.imgur.com/ZaBQCze.png
-",Positive
-dr0jbyx,dr0scot,"Update diagram just for you:
-
-https://i.imgur.com/ZaBQCze.png
-",Positive
-dr0nqvf,dr0o677,I'm into that...,Negative
-dqzxa6g,dr06fm9,"The reason the Maritimes aren't the New England of Canada is because of the St. Lawrence River. The overland route from the resource-rich interior to Saint John is mountainous and difficult to cross, and for most of the year ships can get to Montreal directly and bypass the Maritimes. After icebreakers were introduced and the Seaway was built, Montreal and Toronto (and Detroit, and ports further inland) were accessible year round by ocean-going ships and nobody needed to ship through Saint John at all anymore.
-
-Major cities grow up where land routes meet the sea. The Eastern USA doesn't really have a natural waterway through the Appalacians so their major cities are on the coast. (New York City is located where the biggest river meets the ocean, and since that river also has a canal connection to Lake Erie, it's been a huge transshipment point for two hundred years.) ",Negative
-dqzxa6g,dr072jd,"In the 1861 census, Saint John was more populous than Toronto. By 1871, Toronto was larger, and grew exponentially while Saint John's growth was linear at best. ",Positive
-dqzxa6g,dr0guum,"No NHL hockey, eh? Crosby and Marchand should start their own Halifax franchise!",Positive
-dqzxa6g,dr0j7su,"If you want to go way back then there's also an historical factor.  Back when the land was first colonized the fur trade was much, much more lucrative than farming or coastal fishing. That's why the first major cities grew around the trading posts in Quebec and Montreal, while us lowly Acadiens remained a small community throughout our history. ",Positive
-dr03mk4,dr06ste,"Would it really change anything since the biggest problem of the maritime is the dying fishing industry, which is not happening because of the confederation.",Negative
-dr03mk4,dr0j706,Saint John in the union with the rest of the USA would never have become a major city. Look at Portland or Augusta -- a small city on the coast at the far end of a Boston-centered trade route. It may have actually grown more in Canada as the winter port alternative to an icelocked Montreal (even though it hasn't served that purpose since the 50's.),Positive
-dqzz7sp,dr00s34,"Don't forget we just had the 100th anniversary of the Halifax Explosion last week.
-I'm not going to say it would be the next Toronto or anything, but having your city completely leveled while in its prime takes its toll.",Negative
-dqzz7sp,dr073jk,"It's so very different on the west coast.  Here it's more like: ""The house needs a new coat of paint, so let's tear it down and build a new one.""",Positive
-dqzz7sp,dr02y3j,"I agree but I hope it changes. Being in the European port cities of Hamburg and Rotterdam, I can feel the similarities. I feel the population of Halifax could at least be a million CMA.",Positive
-dqzz7sp,dr015dr,"All of the Maratimes is a “use till break” type of lifestyle. There’s not enough money for most people to live any other way. I’d bet that 80%+ of the Maratimes, who work there for a living, live pay-check to pay-check. ",Positive
-dr0akbc,dr0hqb1,"Thing is, the whole province is just that: small town life.",Positive
-dr0b5td,dr0luo8,Cold and dark at the moment. Lots of awesome scenery and natural phenomena though! ,Positive
-dr0kksk,dr0lc1o,"Although to be fair, I think the Greater Moncton should be there, it's bigger than some of the cities on there (Sherbrooke, Guelph, and Abbotsford)",Positive
-dr02zrx,dr04ssb,Ottawa and Gatineau are almost always lumped together. It used to be Ottawa-Hull. It's the capital region. Although they are in separate provinces a lot of the people that live in Gatineau work in Ottawa. ,Positive
-dr02zrx,dr03pd6,"Ya, I saw Ottawa too but I think if Ottawa weren't the nation's cap, it wouldn't get any recognition either! Haha",Positive
-dr09cqx,dr0p4my,"Yeah, I live in Kelowna and it is definitely not quiet. But /u/GoOtterGo said that it was relatively quiet, and compared to Vancouver, it seems like a little quaint town. ",Negative
-dqzxmt1,dqzyvqs,You haven't driven through northern Ontario then ;),Positive
-dqzxmt1,dqzze3g,"Funny, I had the exact opposite feeling driving through Ontario and Quebec. Compared to Switzerland, the towns are really far apart, with lots of ""nothing"" between them. I'm really curious for my first visit to the prairies (and other parts of Canada) now...",Negative
-dqzxmt1,dqzzanr,"Same if you compare Ontario to Newfoundland. Driving through Newfoundland you go through large stretches where there is no town you're driving through, where as driving through Ontario and Quebec you always seem to be driving through some town",Negative
-dqzxmt1,dr049lp,Driving from Toronto to Ottawa reminds me very much of driving through Idaho and Washington just for the sheer population density.,Negative
-dqzxmt1,dr0kclh,"Should try the BC Interior, not only are there distances between towns but you often have to cross high mountain passes just to get to the next small place sometimes as far as 100km away. ",Negative
-dqzv09o,dr09xg6,California has ports on the Ocean and some really productive farmland between the mountains.,Negative
-dqzv09o,dr07v14,"Same trend with Australia as well: big colonies in Melbourne and Sydney, few big cities in the center and at least one big coastal city out west, but most of the population is nestled in or around a few cities in on the east coast.  ",Positive
-dr02o68,dr03gch,"We also go to New Liskeard to shop, and my oldest son  goes there for school. 45 minutes each way. Ugh.",Negative
-dr02o68,dr09s9y,"I used to dispatch roadside for large commercial trucking companies, we had a vendor in New Liskeard called ""Crazy Dave"". Guy was a fucking champ. One night he was willing to go to Val D'or for me to fix an airline.
-
-Driver ended up staying the night in Rouyn because he didn't want to pay the service call fee, and no local vendor would do it because it was Jean Baptiste Day.",Negative
-dr02o68,dr06d5h,I'm just amazed there's a group of people on here talking about new liskeard.  I have a buddy who lives in englehart.  The dirty commerty.  That was quite the little town.,Positive
-dr02o68,dr0j3rf,Abitibi represent!,Positive
-dr0nkyu,dr0pfyu,"Barrie's population density is 1,758.1persons/km2 while Sudburys is 47.1 persons/km2.
-
-Greater Sudbury has a huge boundary, it's half the size of the GTA. 
-",Negative
-dr08qbl,dr0mdnw,And 1 deadmau5,Positive
-dr03okp,dr0f8ru,And my Garlic Finger Axe!,Negative
-dr0gmpr,dr0jo1f,"[""Montreal"" doesn't make much sense when counting population, though.](https://upload.wikimedia.org/wikipedia/commons/3/3c/Montreal2001.png)",Positive
-dr0gmpr,dr0l5ik,"OP is using the [Montreal Census Metropolitan Area](http://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-cma-eng.cfm?LANG=Eng&GK=CMA&GC=462&TOPIC=1), which is what StatsCan considered to be ""Montreal"" based on commuting trends. ",Positive
-dqzwjut,dqzyk89," Living in the area you can just see all the new housing and development along the LRT route. Even before the first train rolls out. 1 million seems extreme for 10 year, but maybe you’re right. Time will tell. ",Positive
-dqzwjut,dqzxiq2,"And in London, cranky NIMBYs can't even wrap their heads around BRT.",Negative
-dqzwjut,dr053q7,As someone who lives in the area I don't think that'll happen.  Where are they going to live?,Negative
-dqzwjut,dr0arbh,"I'm so curious to see how the LRT affects the area. London was thinking of getting LRT, but as is usual in this city, the NIMBYs shut it down. ",Negative
-dqzwjut,dr0f6ok,"The realistic population growth estimates point to 750,000 for the whole Region of Waterloo by 2031. Having a million people by 2028 would mean a 5.35% annual growth rate which won't ever happen. The last census showed a 6% growth for KW over a 5 years period.",Negative
-dqzwjut,dr0gyzm,Think the hwy8-401 will be ready by then?   Lol,Positive
-dr01f80,dr0368c,"The Yukon government published reports that it was 500k. Which is pretty understandable given the number of people travelling the Alaska highway during the summer along with all of the cruise liners that stop in Skagway for tourists to follow the Klondike trail into the Yukon by road, rail or hiking. 
-
-Most of the Yukon's economy is resource extraction and tourism which close up shop for the winter. The only people left behind are a skeleton crew. All of the mines, hotels, adventure companies, logging outfits etc. etc. Increase threefold over the summer. That's just how it is. ",Negative
-dr0ednf,dr0elk2,He probably pictured tribes roaming the plains. ,Positive
-dr05f3q,dr0c9dz,"Per capita is a good start, but it's still not a good enough metric on its own, I would say anyone who is showing just one kind of statistic is foolish or trying to mislead you.  For instance, delivering services in the GTA is easier than delivering services in rural Saskatchewan.  So per-capita spending for a certain program could be the same in both of these jurisdictions but the quality of service would be much higher in GTA because of efficiencies and economies of scale. ",Positive
-dr012oe,dr02uf3,"Because of approximately $19,000,000,000 in equalization funds flowing from the ‘have’ Provinces to the ‘have not’ Provinces, Quebec claimed $11,000,000,000, or 57% of it !
-
-Alberta’s energy projects contribute to these coffers, and even with Oil and Gas in a slump, it is still categorized as a ‘have’ Province, so pays in. All this while Quebec Hydro is not considered a source of revenue in equalization calculations. There is little motivation for Quebec to change spending habits that allow its standard of living to be higher than other Provinces,  i.e day care in Quebec subsidized to perhaps $165 per month (which is great), while in Ontario, BC, or Alberta it’s approximately $1,000 to $1,350.
-
-Makes you wonder why national interest infrastructure projects can be blocked, when that revenue helps the entire country. ",Negative
-dr0lejy,dr0omor,It's funny because I know people who grew up in places like Mission or Langley and even just ten years ago those were considered small towns. Now they are considered 'suburbs of Vancouver'. ,Negative
-dqzvm2q,dqzvw74,Wish I could edit the original post though..,Negative
-dr02kmy,dr0mg8k,[4th most populous city in North America](https://en.m.wikipedia.org/wiki/List_of_North_American_cities_by_population),Positive
-dr0ce2n,dr0dkql,"*""Everybody was in it, from miles around""*",Positive
-dr0ifh8,dr0la03,There's more people living in suburban areas than urban areas though.,Negative
-dr09jnv,dr0b92i,"Yeah, I think it comes from the population order, from biggest to smallest. The city itself is definitely a bit more of it's own entity compared to K-W.",Positive
-dqzzoqo,dr02vru,It didn't say anything about Moncton keeping their sticks on the ice.,Negative
-dr06fm9,dr070v2,"This is it.  The Maritimes never had giant port cities because geography allowed those cities to grow farther inland in Canada. On a related note, Winnipeg would have become as big and important as Toronto or Chicago but for the construction of the Panama Canal.",Negative
-dr06ste,dr0b3uj,"There was also coal, gold, shipbuilding and farming , ",Positive
-dr00s34,dr0634p,"On the other hand, I can't believe that 100 yrs later, Halifax hasn't turned that into a much bigger tourist attraction than it is. I mean, the city has an attractive waterfront setting. It has a fort with period actors and a daily cannon fired off. It has Pier 21 where a ton of our immigrants landed, with a great museum. There are Titanic survivors buried there. Geez, add in the Great Halifax Explosion Recreation of 2017 and you have the perfect tourist destination.  ",Positive
-dr00s34,dr02va2,"Completely leveled might be a bit of a stretch. A good chunk of the North end, yes, but downtown and everything south escaped more or less unscathed. Only the area within the dotted border on [This map](https://i.pinimg.com/originals/a3/2b/aa/a32baa6be9a8eb7ea34e783ba8a2b53b.jpg) was levelled. ",Positive
-dr00s34,dr075p9,That didn't stop San Fran from rebuilding in 1906.  The real reason is that the St Lawrence Seaway allows Canada's port cities to be farther inland.,Negative
-dr00s34,dr01efe,"A very fine point. You can easily see how an explosion like that would blow away (SorryNotSorryForThePun) the prospect of future investment and strike fear into the economy. If the infrastructure isn't there, what can it do that some other city can't do better? ",Positive
-dr00s34,dr0h3mh,"Halifax Club has a crack through the window from the explosion that is kept there. I thought that was an awesome piece of history preserved.
-
-Edit: not stained glass but engraved",Negative
-dr00s34,dr0i6tb,Are you saying Halifax needs another explosion?,Positive
-dr073jk,dr0k9hf,"Sometimes it's more a case of ""This property looks nice; I don't like the shade of paint on the house though, so let's tear it down and build a new one.""
-
-I once saw a single lot have 3 differenet multimillion dollar houses on it in the span of 6 years.",Positive
-dr02y3j,dr03t2y,"What reason is there too? Toronto and Vancouver have tons of money in them and are established as Canada's 2 major cities, with others behind like Montreal, Ottawa, Edmonton, and even Quebec city. As you see, competition is quite stiff.   
-
-The only way I can see that is if they adopt the Ireland model and try to recreate that success.",Positive
-dr015dr,dr033y5,It's actually 55% or about 7% above the national average. [Source](http://thechronicleherald.ca/business/1500816-infographic-atlantic-canadians-carry-heavy-debt-not-saving-enough).,Positive
-dr04ssb,dr06i88,And the other way around also...,Positive
-dr03pd6,dr04buf,"I mean Ottawa's metro area has a larger population than either Calgary's metro or Edmonton's, making it the forth largest city in the country so I feel like it would definitely be mentioned.",Negative
-dqzyvqs,dqzza24,"trees untill you find a gas station , thunder Bay, or a cottage. ",Negative
-dqzyvqs,dqzzuo7,"I have taken the train coast to coast. 
-
-Fuck the boreal forest. That just keeps going for seemingly ever. 
-
-Dude totally stayed in Southern Ontario. ",Negative
-dqzyvqs,dr0efcx,"There is ‘stuff’ pretty much continuously along the trans Canada in Northern Ontario, at least from Thunder Bay east.  It’s nothing like 100s of kms of literal nothing like SK.",Negative
-dqzze3g,dr00l82,"> I'm really curious for my first visit to the prairies 
-
-Just tie down your steering wheel and go for a nap.  When you get to Alberta, make a right to Drumheller, and check out some dinosaurs.",Positive
-dqzze3g,dr002gn,You can go hours driving @ 100km/h without seeing more than fields and the occasional gas station. ,Positive
-dqzze3g,dr05at6,"North America is just stupidly huge, and you don't really realize it until you've been driving for 16 hours straight.",Negative
-dqzze3g,dr07gbq,"I'm from BC and here you can drive an hour between towns, sometimes an hour without seeing another person on the road (more so some backroads). When I was in France I was shocked at how close all the towns were together. I'd just speed up to out of town highway speeds and bam there was another one right there. ",Negative
-dqzze3g,dr0mjlx,"It gets more congested once you hit Oshawa. From there to the US border in Niagara Falls, it is all city after city",Positive
-dqzzanr,dr00ba1,"Lived in Halifax for a couple years, but I'm from Southern Ontario, so I'd make that drive a few times a year. Driving through Nova Scotia (once you're out of HRM) and all of New Brunswick is just trees upon trees without any towns really for hours. So once you get into Quebec and Ontario, it's surprisingly how populated it is. ",Positive
-dr049lp,dr0r40j,"The Golden Horseshoe through the 401 corridor is just endless people. 
-
-It’s super obvious from the sky too if you do the Ottawa-Toronto flight at night. 
-
-Sadly most of them are Leafs fans.",Positive
-dr049lp,dr06uf4,"I haven't seen much of Washington state, but I've been all over Idaho. Once you leave Boise area, Idaho is pretty sparsely populated. Especially the eastern half.",Negative
-dr03gch,dr04i88,"45 minutes for us too! Thank god they have a decent-ish fast food selection (relative to where I live...) for my cravings whenever I go there. 
-
-That Pizza Hut is so, so nostalgic. ",Negative
-dr06d5h,dr0g4b1,"The main thing I remember about New Liskeard is that the Zellers store was divided into two different stores at the mall, so you had to walk through the mall to get from one part of the store to the other. I assume that mall isn't doing so well now that Zellers is gone.
+dr1in64,dr1l9xm,Arenas typically last 40 years though ,Negative
+dr1k84b,dr1mj36,In Calgary you can get tickets to the games right now often for less than 20 dollars. We have seen multiple games for 14-20 dollars a person. I think that is a price point that many Calgarians can afford since it is 2 hours at minimum wage. Maybe they can't afford seasons tickets or to go to the games on Saturday night against a rival team but a Monday or Tuesday night game is very affordable.,Negative
+dr1md3z,dr1nw6o,Taxes go up 900% to fund the team.,Positive
+dr1ig5n,dr1j6ta,They are also willing to fund the new arena and complex.,Positive
+dr1lucx,dr1md1b,With profit sharing or kickbacks! And everyone better get a nice Jersey every year.,Positive
+dr1lzhe,dr1moft,"I can't afford 200 dollars for a game, that is why I buy the 14-20 dollar nosebleed tickets off of StubHub and other sites for weekday games. I think that 20 bucks is pretty affordable for watching a game since that is less than 2 hours at minimum wage.",Negative
+dr1lzhe,dr1mo6u,"Something something trickle down economics. /s
 
 ",Negative
-dr0l5ik,dr0of2l,"I'm not disputing that 4 million people live around Montreal, but it does seem odd to line up ""Montreal"" as a single entity with ""Greater Toronto Area"".
+dr1m0f3,dr1n2jy,"So the players should be paid less and the higher-ups(owners and suits etc) should be paid more? The money has to go somewhere.
 
-Granted, the issue here could be ""Greater Toronto Area"" more than ""Montreal"".",Positive
-dqzyk89,dr05k29,I hope the growth isn't reserved to unsustainable suburbia hell. Up not out!,Negative
-dqzxiq2,dr05i8w,It's so frustrating. I did not grow up London but I see huge potential for it.,Negative
-dqzxiq2,dqzxt3k,Fucking London. That LRT plan of theirs was sound. That city has so much potential. Hopefully the provincial initiative of HSR kicks them into fear. ,Negative
-dqzxiq2,dr0auv8,"I'm *still* salty about this, oh my goodness. Pretty much the only reason we're not getting LRT is because ""muh taxes will go up!!!!"" and ""muh small business will get killed by a few years of construction!!!!!"" 🙄",Positive
-dqzxiq2,dr0cp12,They don't even like roads being widened to ease congestion.,Negative
-dqzxiq2,dr0eb11,"There's plenty of NIMBYs in KW who don't see why there should be light rail. It looks amazing, btw, and I think it'll be a game-changer for especially Kitchener, which has had its share of downtrodden years.",Positive
-dqzxiq2,dr0esy8,"It's been that way forever. They are kinda proud of it.
+The players make what the market says they should make",Positive
+dr1lpph,dr1mln0,I believe that’s hat’s how Safeco in Seattle was paid off. Hotel and rental car taxes.  Paid off early. ,Negative
+dr1mh14,dr1muru,"Yes let the markets decide, don't involve the government. ",Positive
+dr1nc83,dr1on93,You can get business grants. Go for it.,Positive
+dr1nerx,dr1numz,The rink being out in Kanata is a huge factor.,Negative
+dr1nfvi,dr1ny5p,"taxpayers pay for the NHL from pee wee on up. local rinks,olympic teams , special schools, Arenas, broacast facilities. A great game exploited by a few.  As well there are more than a few casualties of violence  extreme  sexism, etc.  ",Positive
+dr1evbq,dr1fjcd,*Shrugs*,Positive
+dr1evbq,dr1k110,I will make it legal.,Positive
+dr1evbq,dr1lzeg,Its basically copyright infringement right?,Positive
+dr1evbq,dr1o9ul,"It's copyright infringement so Sportsnet could demand they take it down or sue, but nobody is going to go to jail over a copied internet article or anything.",Negative
+dr1evbq,dr1jyzf,this wouldn't happen if it wasn't for net neutrality #shakespitchfork /s,Negative
+dr1evbq,dr1kvc8,I will make it legal.,Positive
+dr1evbq,dr1moi5,"It isn't, it's just hard to constantly stamp out ",Negative
+dr1k8hg,dr1m9i3,"no, they should just be normal businesses. But the league should not be. Be like the soccer leagues in Europe -- any team can join as long as they are good enough. As it stands, the NHL is a monopoly that leeches public money for profits.",Positive
+dr1k8hg,dr1kjxz,Why should a city take on that risk? They're such poor investments that sports teams require massive subsidies from municipalities.,Negative
+dr1k8hg,dr1mnwd,Let's march on the 'dome and seize the means of goal production!,Positive
+dr1k8hg,dr1l7r9,">Dr_Marxist
 
-Seriously, how long did it take them to widen commissioners? 30 years? And that was a simple as they get. Straight line, no properties to demolish, urgent need. ",Negative
-dr053q7,dr05weh,Build up. It's already happening: https://www.therecord.com/news-story/7325767-kitchener-s-king-street-project-would-create-urban-village-with-condo-towers-shops-offices/,Negative
-dr0368c,dr03w76,"Yes, you are correct about the ~500K total visitors for the year, but that’s not the population at any one point in time—that’s for the whole year. Tourists aren’t counted in population figures anyway.
+Really makes u think",Positive
+dr1k8hg,dr1o2ja,Municipally owned pro sports teams. If you thought going to sporting events was expensive now. ,Negative
+dr1jdqv,dr1lcr5,San Francisco should get a team now.,Positive
+dr1mp5c,dr1nk28,...what the fuck?,Negative
+dr1mp5c,dr1nk7u,Lmao bruh,Positive
+dr1mp5c,dr1nkyl,Uhh... Wut?,Positive
+dr1mp5c,dr1nlnb,Sounds like a bit of a sore spot for you.,Negative
+dr1mp5c,dr1nxqb,How did you get from hockey to hentai so fast?,Negative
+dr1mp5c,dr1ojjx,"Don't tread on my hentai, government!!!!!",Negative
+dr1k8jb,dr1o84a,"> the city should own 1/3 (or however much they invest) of the arena.
 
-Hardly a skeleton crew here in the winter. Our population is pretty stable year-round but growing overall quickly. For 2016 it varied between 37,642 (March) and 38,293 (December). Source: http://www.eco.gov.yk.ca/stats/pdf/populationJun_2017_R.pdf.",Negative
-dr0c9dz,dr0jfoy,Cost of living in the GTA is also higher and the cost for land and lease is also way higher so the service may be worse in the GTA actually.,Negative
-dr02uf3,dr09mxv,"Why are people so ignorant about how equalization works?
+Yes, there is value to a city in having a place for major concerts and other events. You can't have a thriving major city without a proper large venue. Subsidizing a *team* makes little sense to me, but there's some sense in subsidizing an arena or stadium (depending on the specifics of the deal of course). ",Positive
+dr1fwcg,dr1gea0,"all the major arenas were.
 
-",Negative
-dr02uf3,dr05uez,Sorry but equalization payment is only a part of federal spending. Health and social transfer exist too.,Negative
-dr02uf3,dr0aonb,"Most of Hydro Quebecs revenue comes from Quebecers as its a utility and therefore more of a tax on the population. They sell a bit to the states, but its a small portion of the total revenue. Most of Alberta's oil is exported abroad so it is considered income.",Positive
-dr02uf3,dr03t6n,">Because of approximately $19,000,000,000 in equalization funds flowing from the ‘have’ Provinces to the ‘have not’ Provinces 
+the argument is usually (note that this argument is BS):
 
-That's not how this works. A guy working at Ubisoft in Montreal, earning 120k pays more in taxes then a guy working in the oil patch in Alberta earning 115k and therefore the former contributes more then the later.
+it will stimulate the local economy!  You'd be a fool *not* to invest in it!",Positive
+dr1fwcg,dr1gzn8,Yes but the city owns the stadium.,Positive
+dr1fwcg,dr1gw1w,"This is always a tough one, I'm not for funding these arenas/stadiums 100% with public money but maybe up to 50%. The reason I say this is that we all want to live in an area that is thriving, we complain when our cities don't have the music scene, arts scene, and sports scene as others but we don't want to invest in it. The sad truth is American cities will be move than happy to relocate small market Canadian teams to Seattle, Houston, and even Hartford because the government there is happy to bring in that kind of attraction for their city, and while some of you will say let them leave if they can't afford the team take a look at Winnipeg, when the Jets left the Winnipeg didn't fit the mold for a big city, it was overlooked by businesses and it economy suffered, but now with the NHL back its a thriving city, new buildings, new attractions,  new sense of hope that it has become a ""have"" city. We even intend to leave the GTA for Winnipeg in the next few years.",Positive
+dr1j7n8,dr1k81f,"The problem i see with the 1/3 taxpayers,1/3 tickets... is that the 1/3 tickets is still the taxpayers. Pay to build the arena and pay to enter the arena. So pretty much they take the taxes I paid, to build an arena, to get me to come to the arena, to refill the tax coffers that I paid in the first place. They want a new team, 100% of it should come from the team and the league. If people want to donate money for an arena that's fine. Taking tax money for something I don't find a necessity is wrong. If there is tax money for an arena then why the fuck has my road not been plowed in over a month. #BetterShitToSpendMoneyOn",Positive
+dr1j7n8,dr1m4f2,"Even that I think is too generous. I really don’t see why in a market like Calgary where the fans are virtually guaranteed, public money that could otherwise go to schools, roads, the library, or transit, should be going to (or subsidizing) the Flames. I’d rather have pristine streets, great schools, and frequent support of smaller arts and cultural festivals than a huge arena with fancier screens and better acoustics.",Positive
+dr1j7n8,dr1m4pg,"The unspoken part of this is the Olympics. If Calgary's bid is successful, and there's no reason to think it won't be, then they'll get an infusion of something like $700 million from the IOC. That changes everything for this facility. They'll add another couple hundred million to their other venues and athlete housing (some of which will get back) and then put whatever's left in Winsport to make it one of the best funded athlete development programs on the planet.",Positive
+dr1mj36,dr1n4g2,"I guess it really depends where you are.  I am in BC and although ticket prices to a Canucks game are much lower then they were a few years ago your still looking at around $80 per ticket according to the website I am currently looking at.  
 
-> There is little motivation for Quebec to change spending habits that allow its standard of living to be higher that other Provinces, i.e day care in Quebec subsidized to perhaps $165 per month (which is great), while in Ontario, BC, or Alberta it’s approximately $1,000 to $1,350.
-[Quebec Income tax rates](https://i.imgur.com/xb2GUCS.png) [source](http://www.revenuquebec.ca/en/citoyen/situation/nouvel-arrivant/regime-fiscal-du-quebec/taux-imposition.aspx)     
+When they were doing good, it was often $200+ a ticket even for nosebleeds.  
 
-[Alberta Income Tax Rates](https://i.imgur.com/qmvup0Y.png) [source](http://www.taxtips.ca/taxrates/ab.htm)    
+I can remember watching plenty of news stories that showed how you could fly to the US and take in a game with the Canucks at LA or another city for cheaper then it would be to go to a game at home.  ",Negative
+dr1mj36,dr1o7ks,I have never seen an NHL game go for anywhere near that cheap. ,Negative
+dr1nw6o,dr1nzm1,Nah.  Sell more weed.  ,Positive
+dr1moft,dr1n1cm,"Yeah, but then you are in nosebleed seats with binoculars. Might as well watch it from home at that point imo.",Positive
+dr1mo6u,dr1n2lz,I thought /s was meant for sarcasm.,Negative
+dr1n2jy,dr1nxlt,"What? That's not what he was implying at all. Tickets and concessions shouldn't be so expensive, and as a result, players AND higher ups should be paid less. ",Positive
+dr1n2jy,dr1ok18,"Bring it back to a game, charge less for everything, mwke so everyone can enjoy, not just rich people. I used to watch the Sudbury wolves growing up, it was cheap my whole family could go and enjoy the afternoon. Nhl should be more that level. ",Positive
+dr1fjcd,dr1fn7l,*Shrugs back*,Negative
+dr1k110,dr1noxq,Not. Yet.,Negative
+dr1jyzf,dr1mkdl,Big if true!,Positive
+dr1m9i3,dr1mut6,"I'm not sure how it works with soccer, but no team in North America could ever become good enough to compete in the NHL without access to the draft.",Negative
+dr1m9i3,dr1o3gk,Only in cities that allow it. The Canucks' arena was privately built.,Negative
+dr1kjxz,dr1kms9,"lol. Maybe one or two, but the vast majority make a tonne of money and are effective at hiding it.",Positive
+dr1kjxz,dr1lsll,"Alot of the time they are very profitable. Sure not anytime, but it's still a decent investment ",Positive
+dr1l7r9,dr1m8hh,Really tickles the noodle. ,Negative
+dr1lcr5,dr1ltqm,You can’t be serious. ,Positive
+dr1nxqb,dr1om87,Two monitors.,Positive
+dr1gea0,dr1iedv,"> You'd be a fool not to invest in it!
 
-Albertans are literally taxed between 6 and 10.75% less then quebecers, that's just the income tax, I'm not even talking about the sales taxes which is at 15.47% in Quebec. (5% GST, 9.975% QST we get taxed on the GST) meanwhile Alberta has a provincial sales tax rate of 0%.
+Isn't that what scam artists always say? ",Positive
+dr1gea0,dr1iwxx,Im pretty sure Molson Centre in Montreal and the ACC were privately funded. ,Positive
+dr1gea0,dr1lnwf,"The book Soccernomics by Simon Kuper actually has a great arguement against using public money for funding pro sports. He proved using historical data that every promise of stimulating the local economy by building a stadium has been false or grossely overstated. Pro sports are amazing but funding for public infrastructure or any numerous other government priorities is much much more important. (Sorry for the shallow comment, am watching the derby)",Positive
+dr1gea0,dr1jk0i,"The area immediately around Rogers Place has seen tremendous development since the arena was built, including upscale hotels and multi-million dollar condos. Many of the local businesses around the arena are also booming. If the Oilers are playing at home it's standing room only at the bars across the street. Inside the same building as the arena is a casino.
 
-[Alberta Budget](http://www.macleans.ca/wp-content/uploads/2017/03/Sankey.png)    
+You're crazy if you don't think that stimulates the local economy.",Negative
+dr1gea0,dr1n5s1,"Downtown Edmonton has definitely become the hottest nightspot in all of Alberta. Our revitalized ICE District, who's name certainly was picked by someone's child, boasts a chain restaurant density off the charts, and it's all in an easy to drive to location!",Positive
+dr1gw1w,dr1h9wd,I think the economy was hurting more reasons then because the Jets left.,Negative
+dr1gw1w,dr1h0oc,That's why cities should just own the teams.,Positive
+dr1m4f2,dr1o3xp,Because something something concerts apparently /s,Negative
+dr1m4f2,dr1o84i,"> I’d rather have pristine streets, great schools, and frequent support of smaller arts and cultural festivals than a huge arena with fancier screens and better acoustics.
 
-THE CPE (daycare) budget is 3.4 billion a year, If Albertans taxed themselves 8.38% higher, they would  earn 3.81 billion more on their budget which not only pays for the daycare but it would allow them to probably have it entirely free for parents but they dont do that because it's a choice they made.",Positive
-dr02uf3,dr0sezk,"You make it sound like Québec lives lavishly because of equalization yet it barely makes 10% of our budget. Alberta could have all the same things we do if they just decided to raise taxes. They don’t , that’s their choice, end of story. 
+I agree with everything you said but there is one consideration to make.  And that's the team leaving, and your local economy taking a hit because of that.  It's not fair that the City has to consider that, but I'm sure they do.  So they probably just look at it from a perspective of loss vs gain and see what is best.",Positive
+dr1m4pg,dr1ofbv,"I'm lazy but when is the bid for? And wouldn't that be a better angle for the Flames to work? IOC money, Federal money, municipal money, it'd be a cash cow.",Positive
+dr1n4g2,dr1nkh2,"> your still looking at around $80 per ticket according to the website I am currently looking at.
 
-You like to play with numbers, how’s this:
+That may be for a team that's a big draw (like the Leafs), but there's lots of cheap ($20-30) tix for the average 'Nucks game in the secondary market. ",Positive
+dr1fn7l,dr1hvx2,*cracks open beer*,Negative
+dr1mut6,dr1o9xk,"Unless, of course, there *was no draft*.
 
-Provinces / Per Citizen / Total
+That's a nightmare for competitiveness over the long term but hey, agreements can be made or penalties levied for successes or whatever.",Positive
+dr1lsll,dr1lsqa,">. . . ¿ alot ? . . . 
 
-1.	PEI / $ 2 573 / $ 380 millions
-2.	NB / $ 2 259 / $ 1,708 billions
-3.	NS / $ 1 822 / $ 1,722 billions
-4.	Manitoba / $ 1 328 / $ 1,736 billions
-5.	Quebec / $1 206 / $ 10,03 billions
-6.	Ontario / $ 166 / $ 2,304 billions
+I THINK YOU MEANT **a lot**
 
-That’s right, Quebec is only bested by Ontario for the **least** amount of equalization per capita (which is where it really matters because equalization formulas are on a per capita basis). ",Negative
-dr02uf3,dr0czw0,"Québec contributes about 20% to the Federal government earnings (or whatever the technical term is). Maybe the actual number is 19%, or 18%, but that's pretty close to 20% regardless.
 
-This means that Québec is paying close to 4 billion dollars out of the equalization program. Québec effectively receives less than 7 billions from the ""have"" provinces.",Positive
-dr02vru,dr04beh,And if the women don't find you handsome...,Positive
-dr02vru,dr057s7,Keep your dick in a vice,Positive
-dr070v2,dr0e439,How far did they get on the Winnipeg-Vancouver canal?,Negative
-dr0634p,dr09a2p,I think the biggest reason no one goes is because airfare costs so much. Like unbelievably so. For the cost of a Eastbound ticket most people would rather just go to the Hawaii or something. ,Negative
-dr0634p,dr0k34h,"> I can't believe that 100 yrs later, Halifax hasn't turned that into a much bigger tourist attraction than it is
 
-Too expensive to fly to(anywhere in Canada), too far to drive to.  I could visit several different COUNTRIES in Europe for the distance from Toronto(Ontario overall) to there.  The Canadian curse.  Pretty as all hell, but far as hell too.",Negative
-dr0634p,dr0rruo,"There are actually a good deal of cruise ships, a lot of them kept coming until late october this year.  But as other users pointed out airfare within Canada costs so much and there are more enticing vacation destinations for much cheaper outilside of Canada",Negative
-dr02va2,dr0me17,"wow, so africville, then.",Positive
-dr0k9hf,dr0o00g,"Very wasteful, I agree. ",Positive
-dr03t2y,dr041so,"Montreal is almost twice the size of Vancouver, if call it a major city first. ",Negative
-dr033y5,dr040vo,"Thanks for the link; I’d be curious to see if they surveyed people who work out west and live back east, because I wouldn’t count that as a desirable thing to do to survive on the east coast either, but would be more than pay-to-pay living. I was born in PEI and I know those sentiments all to well. Moved out west now. ",Negative
-dr04buf,dr04fat,"Ottawa is fifth now, Calgary has had a larger metro for the last five years or so.",Negative
-dqzza24,dr016yz,Or an open pit mine. ,Positive
-dqzza24,dr095cz,Moonbeam to weird you out,Positive
-dqzza24,dr01y3g,Trees and rock.,Positive
-dqzzuo7,dr033fy,I used to take the train form Ottawa to Winnipeg every summer. Trees and rocks for 24 hours getting out of Ontario then 12 hours of of prairie.,Negative
-dqzzuo7,dr0dgd3,"I took the train from Toronto to Vancouver this summer and northern Ontario was one of my favourites. A million trees for sure but lots and lots of lakes, it was peaceful. ",Positive
-dqzzuo7,dr03nt3,"""When the green dark forest was too silent to be real
-And many are the dead men too silent to be real""",Positive
-dr0efcx,dr0i1r4,Hwy 17 maybe but Hwy 11 is pretty empty. And 44 between Timmins and Sudbury has one gas station half way between. ,Negative
-dr00l82,dr07o2f,"And while you're there, go to the Last Chance Saloon in Wayne(past 9 of the 11 bridges) and check out some live music and grab a pint & a pickled egg. Say hi to Paula. ",Positive
-dr05at6,dr08inn,"Especially when you start in Toronto, drive for 16 hours straight, and haven't even managed to leave the province yet.",Negative
-dr05at6,dr0ksfq,"> you've been driving for 16 hours straight.
 
-And you've only gone from Toronto to Thunder Bay, stopping for gas and a sandwich twice.
-",Negative
-dr06uf4,dr073fb,"Hmm, I've just driven down from BC then across into Washington. It just seemed like you were never more than a few miles from a town.",Positive
-dr05k29,dr0aznb,"> Up not out!
 
-Can you please explain this to the city of London? We need help, lol",Positive
-dr05k29,dr08mrs,"The greenfield development restrictions that have been enacted by the regional government in KWC are some of the strongest in Ontario, with almost all growth being directed towards intensification in already urbanized areas, and most of that along the central spine of the city where the LRT route runs. 
-
-Developers actually took the Region to the OMB because they wanted more than a thousand hectares of land to build subdivisions on, while the Region had only designated less than 100. Unfortunately  the final settlement of that was the OMB partially siding with the developers, so about 500 hectares of land will be developed into subdivisions up until 2031. ",Negative
-dr05k29,dr0eoq5,"Waterloo has just approved planning for the last undeveloped chunk of land to be developed, the rest of the city is built right up the the city limits. Kitchener and Cambridge are rapidly reaching the edges of their city limits too. in the next 10 years there won't be much choice for new development to build new areas of suburbia thankfully and will be restricted to infill development and higher intensification.
-
-TBH though, 1 million in 10 years won't happen. Most realistic estimates for growth point to about 750,000 for the Region of Waterloo by 2031.",Negative
-dr05k29,dr0da32,So far it seems to be more up then out. ,Positive
-dr05i8w,dr0awiq,"> I see huge potential for it.
-
-Same. London has so much potential to grow as a city, but the NIMBYs and city hall are holding it back. I love this place, but I can't stay here forever if it's going to stagnate and refuse to get with the times. ",Negative
-dr0auv8,dr0iov4,It took Ottawa 50 years to finally build some LRT.  Good luck down there.,Positive
-dr0auv8,dr0eucg,"They said that in KW too, yes taxes have risen a bit, but I think it has been pretty tough for people to prove business shutting down because of the construction. Businesses have closed, yes, but the evidence highly suggests they would have anyway in the near future/weren't doing very well anyway, the construction just gave the owners something to blame it on. There have even been a few places that opened during the construction and continue to do well.",Negative
-dr0auv8,dr0sro7,"There was something fishy about it.  With the way some on council about-faced on the matter seemingly overnight, I can't help but wonder if someone with deep pockets wanted the project quashed.  ",Negative
-dr05weh,dr0p6sd,"We're talking about doubling the population in the area.  Just imagine all the houses and condos we have now and double it.
-
-We're talking housing for half a million people...",Positive
-dr03w76,dr0702f,"I mean compared to May-August when all of the seasonal workers come to town and Dawson becomes a functional City and people actually populated the territory outside of Whitehorse. 
-
-Whitehorse is one of the most educated towns per capita for a reason... those who stay behind are largely management level positions and government positions.",Negative
-dr09mxv,dr0j244,Because Brad Wall tells them we are a have province. We also have clearly never benifited from those same payments in the past either /s,Negative
-dr09mxv,dr0kyi2,the education system?,Positive
-dr09mxv,dr0d32v,Mostly because they have other interests than federal spending.,Negative
-dr03t6n,dr04c7y,"Yes of course a person earning more, in a Province with higher Provincial income tax obligations, pays more in taxes, than a person earning less in a Province with less obligation.  I assume you meant to reverse the $115 and $120, but didn’t catch how that determines why Quebec (with such a higher tax rate that you cite) still needs 57% of the fund transfer, without metrics within the Province that take revenue from Quebec Hydro (or Ontario Hydro) into consideration.  Also missed your point about a choice for a higher tax rate. Suppose you could tax at 75% and pay for all sorts of social programs.  Do you also think that is as simple as a ‘choice’.
-
-Using the equalization funds from Alberta to go ‘out of Province is ok, but not for Albertans to remove Provincial Sales tax?",Positive
-dr03t6n,dr0kifq,"Thank you, the rampant misunderstanding of equalization payments (often erroneously referred to as transfer payments) is something that really grinds my gears. ",Positive
-dr0sezk,dr0u38j,"No one implies lavishly.  Just a bit greedy considering the wollup Oil and Gas out west has taken. Be pretty decent if Quebec said ‘they will cut back on spending just like Alberta has to currently, instead of still taking as much from the pot as they can. 
-
-In summary, I am  still waiting for the answer.
-
-If Quebec has:
-1-highest taxes,
-2-least amount of equalization per person,
-
-Why do they receive $11B of $16B total. Something is missing in your rationale, unless they represent 57% of the population in the ‘have not’ category?",Negative
-dr0sezk,dr0zf8l,"That's just as bullshit meaningless half truth way of presenting it as what you are correcting, and you know it. 
-
-> That’s right, Quebec is only bested by Ontario for the least amount of equalization per capita
-
-...**if** you ignore the fact that the four ahead of it are less than half of the population of Quebec combined (yes, absolute values matter too), and that Ontario is beating it by a factor of **seven** per capita. The reality of your data overwhelms your intended point. ",Positive
-dr04beh,dr05jmi,They won’t give you a handy?,Positive
-dr0e439,dr0hnss,"Basically the Panama Canal made it cheaper to ship by ocean from Europe or the East Coast to the West Coast instead of by rail, for which Winnipeg was a major hub.  
-
-But a Winnipeg-Vancouver canal is a great idea.  I wonder if the Liberals would spring for it?",Positive
-dr0e439,dr0fb22,He's talking about the Hudson Bay via Chruchill.,Positive
-dr0e439,dr0ldic,Another interesting canal story is how New York stole Chicago's thunder by the completion of the Erie Canal.,Positive
-dr09a2p,dr09qic,You have a good point. We only went because I worked for WestJet and could fly out there for the cost of seat taxes.,Negative
-dr041so,dr0483y,"Montreal is a major city, but ever since the Quebec separation scare, a lot of umph moved to Toronto. 
-
-Now, Montreal has a lot of culture, is actually affordable, and no slouch. But same as Edmonton. Quebec city is arguably the heart of Quebec. 
-
-Vancouver has a lot of growth and is known as the city on the west coast. I would argue that most people from the western world, and a good portion of Asia, can point to Toronto and Vancouver on a map but will have trouble with Montreal.
-
-When it comes to true international metropolitans, Toronto is the only one. And it is the one of the smallest in its class. ",Negative
-dr016yz,dr01jtn,but most of those have trees around them so you can see them from a paved road. ,Positive
-dr095cz,dr0f4ns,That space ship is pretty cool though! ,Positive
-dr01y3g,dr049xn,"> Trees and rock.
-
-[And rocks and trees](https://www.youtube.com/watch?v=1KvYBldhyL8)",Positive
-dr033fy,dr039kv,"If there was 12 hours of prairie between you and Winnipeg once you left Ontario, you were on one slowass train.",Negative
-dr0dgd3,dr0o1nb,"I hated it. Love the friends I made, but hated the isolation. 
-
-Different strokes for different folks? ",Positive
-dr03nt3,dr0apuc,Good ol Gordy.,Positive
-dr08inn,dr0cj4q,But enough about highway 401. ,Negative
-dr0aznb,dr0loi4,"Yes, London does. Might as well throw St Thomas in too.",Positive
-dr0aznb,dr0gq2g,"Build upwards, not outwards. Tall buildings verses miles and miles of suburbia.",Negative
-dr0aznb,dr0ijot,Ottawa too,Negative
-dr0awiq,dr0kp1b,"as someone who recently moved here, what are the problems you see London facing?",Positive
-dr04c7y,dr04fkp,"> Yes of course a person earning more, in a Province will higher Provincial income tax obligations, pays more in taxes, than a person earning less in a Province with less obligation.
-
-THat's irrelevant, the equalization program is a federal program and as such the income tax we are talking about is only the federal one. Dude from alberta earning 115k pays less in federal income tax then dude in Quebec earning 120k does.
-
-The Quebec population contributes more (barely) then Alberta does to the federal revenues. Ontario pays the most.
+^^I ^^AM ^^A ^^BOT^^^beep^boop!",Positive
+dr1ltqm,dr1oor2,"After Vegas getting a team, anything is possible. I'm not a geologist or a sports expert... but a hockey team in the middle of the fucking desert?",Positive
+dr1iedv,dr1j6zn,Did you say Monorail?,Positive
+dr1iwxx,dr1j2ly,Canadian Tire Centre was as well.,Negative
+dr1jk0i,dr1jy0f,"True. I work downtown and live 3Km away and have seen a noticeable impact on the downtown core. Game nights, or anytime there's an event at Rogers (which seems to be like 4 or 5 days/week) there's so much more activity. The Edmonton arena seemed to be an exception and was right place/right time.  That being said though, I'm still not a fan of how the arena was funded. ",Negative
+dr1jk0i,dr1n41h,"It's a bad argument., though. It presumes that if the Oilers weren't playing then nobody would be at any bars at all. There probably is *some* stimulus, as it's a city activity, and it's fun that it brings people together (if the team makes the playoffs... I won't make any Oilers jokes here...), but it's disingenuous to suggest that without the team everybody would be at home staring at the wall.",Positive
+dr1jk0i,dr1o6mv,The same thing has happened with the Bell MTS Place (or whatever the hell it's called now) in Winnipeg and the return of the Jets. I left Winnipeg around 2012/2013 and recently spent a few months there before starting a masters and it's completely different from what I remember. Portage Place still sucks though.,Negative
+dr1h9wd,dr1idod,"Obviously, but what he's saying is that because of the new arena it attracts new businesses.  A company is more inclined to set up shop in Winnipeg because it again has the big city feel with a professional sports franchise.  It isn't the only thing that attracts business, but it is an extra tick on the checklist that they are looking for. ",Negative
+dr1h0oc,dr1mkpn,"Big leagues that are mostly privately owned will actively shut out publicly held teams, making them non-viable since they will have no opponents to play against. ",Negative
+dr1hvx2,dr1i1bg,*turns on the hockey game*,Negative
+dr1j6zn,dr1jqd0,https://imgur.com/23fxTjB,Positive
+dr1j6zn,dr1jszr,"Well, sir, there's nothin' on Earth like a genuine bona-fide electrified six-car monorail! 
 ",Positive
-dr05jmi,dr0lea8,R Rated Red Green,Negative
-dr0hnss,dr0jsyf,Why Winnipeg? It's not even on the Great Lakes system. You'd think Thunder Bay or Duluth are the obvious terminuses.,Negative
-dr0fb22,dr0lpoa,"The rail line through Churchill has never been a major trade route. Every so often a plan comes forth to use that port for grain or ore or something, but it never really pans out. Global warming notwithstanding it's still frozen for too much of the year. In fact, that rail line has been closed due to flood damage all year (seriously, Churchill's been totally disconnected from the rest of the world since the spring) and nobody noticed or cared.",Negative
-dr09qic,dr09sxg,Same thing for me too. SO works for an airline.,Negative
-dr0483y,dr0si64,Same as Edmonton? What Alberta are you talking about? The provincial government might be based there but the economy of the province is driven primarily in Calgary.,Positive
-dr0483y,dr05qdb,"> and a good portion of Asia, can point to Toronto and Vancouver on a map but will have trouble with Montreal.
+dr1j2ly,dr1jf8j,Rogers Arena/GM Place too,Positive
+dr1j2ly,dr1kwcm,"Hell, the CTC didn't just have to pay for the arena and land, the construction cost had to include the freeway off-ramp to get to it.",Negative
+dr1n41h,dr1nisl,">It presumes that if the Oilers weren't playing then nobody would be at any bars at all
 
-I think a good portion of Europe could point Montreal on a map before Vancouver.",Positive
-dr0483y,dr0kaxh,"> but ever since the Quebec separation scare, a lot of umph moved to Toronto.
+No it doesn't. I said it was ""standing room only"" when they are playing, which is true. Some places are at maximum capacity and cannot let more people come in until others leave. I didn't say that the bars were completely devoid of any and all patronage when the Oilers aren't playing. You made that assumption.
 
-The movement from Montreal to Toronto predates the ""separation scare"" by several decades.
+>but it's disingenuous to suggest that without the team everybody would be at home staring at the wall.
 
->Quebec city is arguably the heart of Quebec.
+It's a good thing I never made that suggestion.
+",Negative
+dr1n41h,dr1ogfm,"Winnipeg's downtown has seen a huge turnaround with all sorts of new bars, restaurants, hotels and condos and it's entirely because of the Jets.
 
-Not at all.
+>it's disengenous to suggest that without the team everybody would be at home staring at the wall
 
->Vancouver has a lot of growth 
+That's exactly what people did before the Jets. We watched other teams playing on tv at home. We didn't go to bars and restaurants to watch other teams play. And we certainly NEVER went downtown.
 
-Montreal has just as much growth, and then some.",Negative
-dr039kv,dr03jlf,You clearly never rode Via rail.,Positive
-dr0o1nb,dr0p4g9,"Yeah definitely! Can’t beat making friends on the VIA train though, good times. ",Negative
-dr0lea8,dr0nrtw,Still a lot of duct tapes uses the original show never brought up...,Negative
-dr0jsyf,dr0l8x2,"Maybe because rail was much more difficult to lay across the Canada Shield?  I'm not sure why, but Winnipeg was a hub and transfer point.  Everyone at the time expected Winnipeg's boom of 1890-1920 to continue, but alas it did not.  
+There is no denying that an NHL team brings huge economic development to an area.",Positive
+dr1mkpn,dr1n3gr,"The Green Bay Packers are publicly owned, aren't they? They seem to be doing perfectly fine.",Positive
+dr1i1bg,dr1l4bt,That's how,Positive
+dr1i1bg,dr1l95p,*Happily pays taxes to support said hockey game.*,Negative
+dr1jszr,dr1mwv5,I hear those things are awfully loud.,Positive
+dr1kwcm,dr1onvr,"If I'm not mistaken, that's the only privately funded turnpike in Ontario",Positive
+dr1n3gr,dr1nqzs,"They've been grandfathered into the NFL. I think the current rule is that any given team isn't allowed to have more than 32 'owners'. This is to prevent publicly owned teams which have lower costs due to no profit taking over running established owners investments and profitability.  Old fashioned protectionism basically.
 
-https://en.wikipedia.org/wiki/History_of_Winnipeg#Railway_boomtown  
+• Mid-1980s: League institutes new percentage requirement for a lead owner, requiring that the general partner own at least 30 percent of the team. The requirement previously had been 51 percent.
 
-quote from Wikipedia: 
->> The [Panama] canal reduced reliance on Canada's rail system for international trade, and the increase in ship traffic helped Vancouver surpass Winnipeg to become Canada's third-largest city in the 1960s.",Negative
-dr0jsyf,dr0lmq7,"Winnipeg is built at the confluence of two rivers and two major rail lines, and in the center of a farming region with rich soil. The cargo continues from Winnipeg through to Thunder Bay by rail -- but by comparison, Thunder Bay's *only* purpose is its port -- and the confluence of these four or five other factors served to make Winnipeg a much larger city
-",Positive
-dr0lpoa,dr0p412,"We care, we've been in talks with the government about a solution to that connection.
+• 2004: Responding to high team valuations, NFL lowers the required percentage for the general partner to 20 percent for teams that had been owned at least 10 years by the same family, though another 10 percent must be controlled by other family members.
 
-An American company owns the rails and refuses to pay to repair it.
-
-But it goes back to the original point that the Panama Canal kills the viability of the northern route until the Northwest Passage is open year round.",Negative
-dr0lpoa,dr0pvpn,"> Churchill's been totally disconnected from the rest of the world since the spring) and nobody noticed or cared.
-
- It's been in the news quite a bit.",Negative
-dr09sxg,dr09y19,"Gotta LOVE those flight privileges.
-Unfortunately I dont work there anymore. Damn, regular fares hurt, but then again I won't miss the tension of having bags packed, plans made, my SO with me and finding out there's only 1 standby seat left. Assigned seats are sometimes worth it.",Negative
-dr0si64,dr0ur99,Fair enough. You make a good point. ,Positive
-dr05qdb,dr0nyqp,Fair enough. I may be wrong.,Positive
-dr03jlf,dr03mse,"I haven't, but it's less than an hour by car between the end of the big ol Canadian shield and the Winnipeg perimeter highway.",Negative
-dr03mse,dr03zfg,"The short of it is that Via only owns a vary small portion of rail. Whoever owns the rail gets to decide priority. 
-
-Spoilers, Via is seemingly always last. 
-
-Took the train from Edmonton to Vancouver. The train was ""only half hour late"" which is amazingly early for the train. ",Negative
+• October 2009: With estate planning in mind, league lowers the threshold to 10 percent, with at least 20 percent having to be controlled by other family members. The new rule only is triggered by an active succession plan and is eligible only for existing owners. New owners will have to wait a decade before becoming eligible.",Negative
+dr1l95p,dr1n0tr,How about they support themselves with all the money they're making.,Positive
